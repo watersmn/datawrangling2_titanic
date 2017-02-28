@@ -1,327 +1,327 @@
 "","pclass","survived","name","sex","age","sibsp","parch","ticket","fare","cabin","embarked","boat","body","home.dest","cabin_number"
-"1",1,1,"Allen, Miss. Elisabeth Walton","female",29,0,0,"24160",211.3375,"B5","S","2",NA,"St Louis, MO",0
-"2",1,1,"Allison, Master. Hudson Trevor","male",0.9167,1,2,"113781",151.55,"C22 C26","S","11",NA,"Montreal, PQ / Chesterville, ON",0
-"3",1,0,"Allison, Miss. Helen Loraine","female",2,1,2,"113781",151.55,"C22 C26","S","None",NA,"Montreal, PQ / Chesterville, ON",0
-"4",1,0,"Allison, Mr. Hudson Joshua Creighton","male",30,1,2,"113781",151.55,"C22 C26","S","None",135,"Montreal, PQ / Chesterville, ON",0
-"5",1,0,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)","female",25,1,2,"113781",151.55,"C22 C26","S","None",NA,"Montreal, PQ / Chesterville, ON",0
-"6",1,1,"Anderson, Mr. Harry","male",48,0,0,"19952",26.55,"E12","S","3",NA,"New York, NY",0
-"7",1,1,"Andrews, Miss. Kornelia Theodosia","female",63,1,0,"13502",77.9583,"D7","S","10",NA,"Hudson, NY",0
-"8",1,0,"Andrews, Mr. Thomas Jr","male",39,0,0,"112050",0,"A36","S","None",NA,"Belfast, NI",0
-"9",1,1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)","female",53,2,0,"11769",51.4792,"C101","S","D",NA,"Bayside, Queens, NY",0
+"1",1,1,"Allen, Miss. Elisabeth Walton","female",29,0,0,"24160",211.3375,"B5","S","2",NA,"St Louis, MO",1
+"2",1,1,"Allison, Master. Hudson Trevor","male",0.9167,1,2,"113781",151.55,"C22 C26","S","11",NA,"Montreal, PQ / Chesterville, ON",1
+"3",1,0,"Allison, Miss. Helen Loraine","female",2,1,2,"113781",151.55,"C22 C26","S","None",NA,"Montreal, PQ / Chesterville, ON",1
+"4",1,0,"Allison, Mr. Hudson Joshua Creighton","male",30,1,2,"113781",151.55,"C22 C26","S","None",135,"Montreal, PQ / Chesterville, ON",1
+"5",1,0,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)","female",25,1,2,"113781",151.55,"C22 C26","S","None",NA,"Montreal, PQ / Chesterville, ON",1
+"6",1,1,"Anderson, Mr. Harry","male",48,0,0,"19952",26.55,"E12","S","3",NA,"New York, NY",1
+"7",1,1,"Andrews, Miss. Kornelia Theodosia","female",63,1,0,"13502",77.9583,"D7","S","10",NA,"Hudson, NY",1
+"8",1,0,"Andrews, Mr. Thomas Jr","male",39,0,0,"112050",0,"A36","S","None",NA,"Belfast, NI",1
+"9",1,1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)","female",53,2,0,"11769",51.4792,"C101","S","D",NA,"Bayside, Queens, NY",1
 "10",1,0,"Artagaveytia, Mr. Ramon","male",71,0,0,"PC 17609",49.5042,"","C","None",22,"Montevideo, Uruguay",0
-"11",1,0,"Astor, Col. John Jacob","male",47,1,0,"PC 17757",227.525,"C62 C64","C","None",124,"New York, NY",0
-"12",1,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)","female",18,1,0,"PC 17757",227.525,"C62 C64","C","4",NA,"New York, NY",0
-"13",1,1,"Aubart, Mme. Leontine Pauline","female",24,0,0,"PC 17477",69.3,"B35","C","9",NA,"Paris, France",0
+"11",1,0,"Astor, Col. John Jacob","male",47,1,0,"PC 17757",227.525,"C62 C64","C","None",124,"New York, NY",1
+"12",1,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)","female",18,1,0,"PC 17757",227.525,"C62 C64","C","4",NA,"New York, NY",1
+"13",1,1,"Aubart, Mme. Leontine Pauline","female",24,0,0,"PC 17477",69.3,"B35","C","9",NA,"Paris, France",1
 "14",1,1,"Barber, Miss. Ellen ""Nellie""","female",26,0,0,"19877",78.85,"","S","6",NA,"",0
-"15",1,1,"Barkworth, Mr. Algernon Henry Wilson","male",80,0,0,"27042",30,"A23","S","B",NA,"Hessle, Yorks",0
+"15",1,1,"Barkworth, Mr. Algernon Henry Wilson","male",80,0,0,"27042",30,"A23","S","B",NA,"Hessle, Yorks",1
 "16",1,0,"Baumann, Mr. John D","male",29.8811345124283,0,0,"PC 17318",25.925,"","S","None",NA,"New York, NY",0
-"17",1,0,"Baxter, Mr. Quigg Edmond","male",24,0,1,"PC 17558",247.5208,"B58 B60","C","None",NA,"Montreal, PQ",0
-"18",1,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)","female",50,0,1,"PC 17558",247.5208,"B58 B60","C","6",NA,"Montreal, PQ",0
-"19",1,1,"Bazzani, Miss. Albina","female",32,0,0,"11813",76.2917,"D15","C","8",NA,"",0
-"20",1,0,"Beattie, Mr. Thomson","male",36,0,0,"13050",75.2417,"C6","C","A",NA,"Winnipeg, MN",0
-"21",1,1,"Beckwith, Mr. Richard Leonard","male",37,1,1,"11751",52.5542,"D35","S","5",NA,"New York, NY",0
-"22",1,1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)","female",47,1,1,"11751",52.5542,"D35","S","5",NA,"New York, NY",0
-"23",1,1,"Behr, Mr. Karl Howell","male",26,0,0,"111369",30,"C148","C","5",NA,"New York, NY",0
+"17",1,0,"Baxter, Mr. Quigg Edmond","male",24,0,1,"PC 17558",247.5208,"B58 B60","C","None",NA,"Montreal, PQ",1
+"18",1,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)","female",50,0,1,"PC 17558",247.5208,"B58 B60","C","6",NA,"Montreal, PQ",1
+"19",1,1,"Bazzani, Miss. Albina","female",32,0,0,"11813",76.2917,"D15","C","8",NA,"",1
+"20",1,0,"Beattie, Mr. Thomson","male",36,0,0,"13050",75.2417,"C6","C","A",NA,"Winnipeg, MN",1
+"21",1,1,"Beckwith, Mr. Richard Leonard","male",37,1,1,"11751",52.5542,"D35","S","5",NA,"New York, NY",1
+"22",1,1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)","female",47,1,1,"11751",52.5542,"D35","S","5",NA,"New York, NY",1
+"23",1,1,"Behr, Mr. Karl Howell","male",26,0,0,"111369",30,"C148","C","5",NA,"New York, NY",1
 "24",1,1,"Bidois, Miss. Rosalie","female",42,0,0,"PC 17757",227.525,"","C","4",NA,"",0
-"25",1,1,"Bird, Miss. Ellen","female",29,0,0,"PC 17483",221.7792,"C97","S","8",NA,"",0
+"25",1,1,"Bird, Miss. Ellen","female",29,0,0,"PC 17483",221.7792,"C97","S","8",NA,"",1
 "26",1,0,"Birnbaum, Mr. Jakob","male",25,0,0,"13905",26,"","C","None",148,"San Francisco, CA",0
-"27",1,1,"Bishop, Mr. Dickinson H","male",25,1,0,"11967",91.0792,"B49","C","7",NA,"Dowagiac, MI",0
-"28",1,1,"Bishop, Mrs. Dickinson H (Helen Walton)","female",19,1,0,"11967",91.0792,"B49","C","7",NA,"Dowagiac, MI",0
-"29",1,1,"Bissette, Miss. Amelia","female",35,0,0,"PC 17760",135.6333,"C99","S","8",NA,"",0
-"30",1,1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan","male",28,0,0,"110564",26.55,"C52","S","D",NA,"Stockholm, Sweden / Washington, DC",0
-"31",1,0,"Blackwell, Mr. Stephen Weart","male",45,0,0,"113784",35.5,"T","S","None",NA,"Trenton, NJ",0
-"32",1,1,"Blank, Mr. Henry","male",40,0,0,"112277",31,"A31","C","7",NA,"Glen Ridge, NJ",0
-"33",1,1,"Bonnell, Miss. Caroline","female",30,0,0,"36928",164.8667,"C7","S","8",NA,"Youngstown, OH",0
-"34",1,1,"Bonnell, Miss. Elizabeth","female",58,0,0,"113783",26.55,"C103","S","8",NA,"Birkdale, England Cleveland, Ohio",0
-"35",1,0,"Borebank, Mr. John James","male",42,0,0,"110489",26.55,"D22","S","None",NA,"London / Winnipeg, MB",0
+"27",1,1,"Bishop, Mr. Dickinson H","male",25,1,0,"11967",91.0792,"B49","C","7",NA,"Dowagiac, MI",1
+"28",1,1,"Bishop, Mrs. Dickinson H (Helen Walton)","female",19,1,0,"11967",91.0792,"B49","C","7",NA,"Dowagiac, MI",1
+"29",1,1,"Bissette, Miss. Amelia","female",35,0,0,"PC 17760",135.6333,"C99","S","8",NA,"",1
+"30",1,1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan","male",28,0,0,"110564",26.55,"C52","S","D",NA,"Stockholm, Sweden / Washington, DC",1
+"31",1,0,"Blackwell, Mr. Stephen Weart","male",45,0,0,"113784",35.5,"T","S","None",NA,"Trenton, NJ",1
+"32",1,1,"Blank, Mr. Henry","male",40,0,0,"112277",31,"A31","C","7",NA,"Glen Ridge, NJ",1
+"33",1,1,"Bonnell, Miss. Caroline","female",30,0,0,"36928",164.8667,"C7","S","8",NA,"Youngstown, OH",1
+"34",1,1,"Bonnell, Miss. Elizabeth","female",58,0,0,"113783",26.55,"C103","S","8",NA,"Birkdale, England Cleveland, Ohio",1
+"35",1,0,"Borebank, Mr. John James","male",42,0,0,"110489",26.55,"D22","S","None",NA,"London / Winnipeg, MB",1
 "36",1,1,"Bowen, Miss. Grace Scott","female",45,0,0,"PC 17608",262.375,"","C","4",NA,"Cooperstown, NY",0
-"37",1,1,"Bowerman, Miss. Elsie Edith","female",22,0,1,"113505",55,"E33","S","6",NA,"St Leonards-on-Sea, England Ohio",0
+"37",1,1,"Bowerman, Miss. Elsie Edith","female",22,0,1,"113505",55,"E33","S","6",NA,"St Leonards-on-Sea, England Ohio",1
 "38",1,1,"Bradley, Mr. George (""George Arthur Brayton"")","male",29.8811345124283,0,0,"111427",26.55,"","S","9",NA,"Los Angeles, CA",0
-"39",1,0,"Brady, Mr. John Bertram","male",41,0,0,"113054",30.5,"A21","S","None",NA,"Pomeroy, WA",0
-"40",1,0,"Brandeis, Mr. Emil","male",48,0,0,"PC 17591",50.4958,"B10","C","None",208,"Omaha, NE",0
+"39",1,0,"Brady, Mr. John Bertram","male",41,0,0,"113054",30.5,"A21","S","None",NA,"Pomeroy, WA",1
+"40",1,0,"Brandeis, Mr. Emil","male",48,0,0,"PC 17591",50.4958,"B10","C","None",208,"Omaha, NE",1
 "41",1,0,"Brewe, Dr. Arthur Jackson","male",29.8811345124283,0,0,"112379",39.6,"","C","None",NA,"Philadelphia, PA",0
-"42",1,1,"Brown, Mrs. James Joseph (Margaret Tobin)","female",44,0,0,"PC 17610",27.7208,"B4","C","6",NA,"Denver, CO",0
-"43",1,1,"Brown, Mrs. John Murray (Caroline Lane Lamson)","female",59,2,0,"11769",51.4792,"C101","S","D",NA,"Belmont, MA",0
-"44",1,1,"Bucknell, Mrs. William Robert (Emma Eliza Ward)","female",60,0,0,"11813",76.2917,"D15","C","8",NA,"Philadelphia, PA",0
-"45",1,1,"Burns, Miss. Elizabeth Margaret","female",41,0,0,"16966",134.5,"E40","C","3",NA,"",0
-"46",1,0,"Butt, Major. Archibald Willingham","male",45,0,0,"113050",26.55,"B38","S","None",NA,"Washington, DC",0
+"42",1,1,"Brown, Mrs. James Joseph (Margaret Tobin)","female",44,0,0,"PC 17610",27.7208,"B4","C","6",NA,"Denver, CO",1
+"43",1,1,"Brown, Mrs. John Murray (Caroline Lane Lamson)","female",59,2,0,"11769",51.4792,"C101","S","D",NA,"Belmont, MA",1
+"44",1,1,"Bucknell, Mrs. William Robert (Emma Eliza Ward)","female",60,0,0,"11813",76.2917,"D15","C","8",NA,"Philadelphia, PA",1
+"45",1,1,"Burns, Miss. Elizabeth Margaret","female",41,0,0,"16966",134.5,"E40","C","3",NA,"",1
+"46",1,0,"Butt, Major. Archibald Willingham","male",45,0,0,"113050",26.55,"B38","S","None",NA,"Washington, DC",1
 "47",1,0,"Cairns, Mr. Alexander","male",29.8811345124283,0,0,"113798",31,"","S","None",NA,"",0
-"48",1,1,"Calderhead, Mr. Edward Pennington","male",42,0,0,"PC 17476",26.2875,"E24","S","5",NA,"New York, NY",0
+"48",1,1,"Calderhead, Mr. Edward Pennington","male",42,0,0,"PC 17476",26.2875,"E24","S","5",NA,"New York, NY",1
 "49",1,1,"Candee, Mrs. Edward (Helen Churchill Hungerford)","female",53,0,0,"PC 17606",27.4458,"","C","6",NA,"Washington, DC",0
-"50",1,1,"Cardeza, Mr. Thomas Drake Martinez","male",36,0,1,"PC 17755",512.3292,"B51 B53 B55","C","3",NA,"Austria-Hungary / Germantown, Philadelphia, PA",0
-"51",1,1,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)","female",58,0,1,"PC 17755",512.3292,"B51 B53 B55","C","3",NA,"Germantown, Philadelphia, PA",0
-"52",1,0,"Carlsson, Mr. Frans Olof","male",33,0,0,"695",5,"B51 B53 B55","S","None",NA,"New York, NY",0
+"50",1,1,"Cardeza, Mr. Thomas Drake Martinez","male",36,0,1,"PC 17755",512.3292,"B51 B53 B55","C","3",NA,"Austria-Hungary / Germantown, Philadelphia, PA",1
+"51",1,1,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)","female",58,0,1,"PC 17755",512.3292,"B51 B53 B55","C","3",NA,"Germantown, Philadelphia, PA",1
+"52",1,0,"Carlsson, Mr. Frans Olof","male",33,0,0,"695",5,"B51 B53 B55","S","None",NA,"New York, NY",1
 "53",1,0,"Carrau, Mr. Francisco M","male",28,0,0,"113059",47.1,"","S","None",NA,"Montevideo, Uruguay",0
 "54",1,0,"Carrau, Mr. Jose Pedro","male",17,0,0,"113059",47.1,"","S","None",NA,"Montevideo, Uruguay",0
-"55",1,1,"Carter, Master. William Thornton II","male",11,1,2,"113760",120,"B96 B98","S","4",NA,"Bryn Mawr, PA",0
-"56",1,1,"Carter, Miss. Lucile Polk","female",14,1,2,"113760",120,"B96 B98","S","4",NA,"Bryn Mawr, PA",0
-"57",1,1,"Carter, Mr. William Ernest","male",36,1,2,"113760",120,"B96 B98","S","C",NA,"Bryn Mawr, PA",0
-"58",1,1,"Carter, Mrs. William Ernest (Lucile Polk)","female",36,1,2,"113760",120,"B96 B98","S","4",NA,"Bryn Mawr, PA",0
+"55",1,1,"Carter, Master. William Thornton II","male",11,1,2,"113760",120,"B96 B98","S","4",NA,"Bryn Mawr, PA",1
+"56",1,1,"Carter, Miss. Lucile Polk","female",14,1,2,"113760",120,"B96 B98","S","4",NA,"Bryn Mawr, PA",1
+"57",1,1,"Carter, Mr. William Ernest","male",36,1,2,"113760",120,"B96 B98","S","C",NA,"Bryn Mawr, PA",1
+"58",1,1,"Carter, Mrs. William Ernest (Lucile Polk)","female",36,1,2,"113760",120,"B96 B98","S","4",NA,"Bryn Mawr, PA",1
 "59",1,0,"Case, Mr. Howard Brown","male",49,0,0,"19924",26,"","S","None",NA,"Ascot, Berkshire / Rochester, NY",0
 "60",1,1,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)","female",29.8811345124283,0,0,"17770",27.7208,"","C","5",NA,"New York, NY",0
-"61",1,0,"Cavendish, Mr. Tyrell William","male",36,1,0,"19877",78.85,"C46","S","None",172,"Little Onn Hall, Staffs",0
-"62",1,1,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)","female",76,1,0,"19877",78.85,"C46","S","6",NA,"Little Onn Hall, Staffs",0
-"63",1,0,"Chaffee, Mr. Herbert Fuller","male",46,1,0,"W.E.P. 5734",61.175,"E31","S","None",NA,"Amenia, ND",0
-"64",1,1,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)","female",47,1,0,"W.E.P. 5734",61.175,"E31","S","4",NA,"Amenia, ND",0
-"65",1,1,"Chambers, Mr. Norman Campbell","male",27,1,0,"113806",53.1,"E8","S","5",NA,"New York, NY / Ithaca, NY",0
-"66",1,1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)","female",33,1,0,"113806",53.1,"E8","S","5",NA,"New York, NY / Ithaca, NY",0
-"67",1,1,"Chaudanson, Miss. Victorine","female",36,0,0,"PC 17608",262.375,"B61","C","4",NA,"",0
-"68",1,1,"Cherry, Miss. Gladys","female",30,0,0,"110152",86.5,"B77","S","8",NA,"London, England",0
-"69",1,1,"Chevre, Mr. Paul Romaine","male",45,0,0,"PC 17594",29.7,"A9","C","7",NA,"Paris, France",0
-"70",1,1,"Chibnall, Mrs. (Edith Martha Bowerman)","female",29.8811345124283,0,1,"113505",55,"E33","S","6",NA,"St Leonards-on-Sea, England Ohio",0
+"61",1,0,"Cavendish, Mr. Tyrell William","male",36,1,0,"19877",78.85,"C46","S","None",172,"Little Onn Hall, Staffs",1
+"62",1,1,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)","female",76,1,0,"19877",78.85,"C46","S","6",NA,"Little Onn Hall, Staffs",1
+"63",1,0,"Chaffee, Mr. Herbert Fuller","male",46,1,0,"W.E.P. 5734",61.175,"E31","S","None",NA,"Amenia, ND",1
+"64",1,1,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)","female",47,1,0,"W.E.P. 5734",61.175,"E31","S","4",NA,"Amenia, ND",1
+"65",1,1,"Chambers, Mr. Norman Campbell","male",27,1,0,"113806",53.1,"E8","S","5",NA,"New York, NY / Ithaca, NY",1
+"66",1,1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)","female",33,1,0,"113806",53.1,"E8","S","5",NA,"New York, NY / Ithaca, NY",1
+"67",1,1,"Chaudanson, Miss. Victorine","female",36,0,0,"PC 17608",262.375,"B61","C","4",NA,"",1
+"68",1,1,"Cherry, Miss. Gladys","female",30,0,0,"110152",86.5,"B77","S","8",NA,"London, England",1
+"69",1,1,"Chevre, Mr. Paul Romaine","male",45,0,0,"PC 17594",29.7,"A9","C","7",NA,"Paris, France",1
+"70",1,1,"Chibnall, Mrs. (Edith Martha Bowerman)","female",29.8811345124283,0,1,"113505",55,"E33","S","6",NA,"St Leonards-on-Sea, England Ohio",1
 "71",1,0,"Chisholm, Mr. Roderick Robert Crispin","male",29.8811345124283,0,0,"112051",0,"","S","None",NA,"Liverpool, England / Belfast",0
-"72",1,0,"Clark, Mr. Walter Miller","male",27,1,0,"13508",136.7792,"C89","C","None",NA,"Los Angeles, CA",0
-"73",1,1,"Clark, Mrs. Walter Miller (Virginia McDowell)","female",26,1,0,"13508",136.7792,"C89","C","4",NA,"Los Angeles, CA",0
+"72",1,0,"Clark, Mr. Walter Miller","male",27,1,0,"13508",136.7792,"C89","C","None",NA,"Los Angeles, CA",1
+"73",1,1,"Clark, Mrs. Walter Miller (Virginia McDowell)","female",26,1,0,"13508",136.7792,"C89","C","4",NA,"Los Angeles, CA",1
 "74",1,1,"Cleaver, Miss. Alice","female",22,0,0,"113781",151.55,"","S","11",NA,"",0
-"75",1,0,"Clifford, Mr. George Quincy","male",29.8811345124283,0,0,"110465",52,"A14","S","None",NA,"Stoughton, MA",0
-"76",1,0,"Colley, Mr. Edward Pomeroy","male",47,0,0,"5727",25.5875,"E58","S","None",NA,"Victoria, BC",0
-"77",1,1,"Compton, Miss. Sara Rebecca","female",39,1,1,"PC 17756",83.1583,"E49","C","14",NA,"Lakewood, NJ",0
-"78",1,0,"Compton, Mr. Alexander Taylor Jr","male",37,1,1,"PC 17756",83.1583,"E52","C","None",NA,"Lakewood, NJ",0
-"79",1,1,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)","female",64,0,2,"PC 17756",83.1583,"E45","C","14",NA,"Lakewood, NJ",0
-"80",1,1,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)","female",55,2,0,"11770",25.7,"C101","S","2",NA,"New York, NY",0
+"75",1,0,"Clifford, Mr. George Quincy","male",29.8811345124283,0,0,"110465",52,"A14","S","None",NA,"Stoughton, MA",1
+"76",1,0,"Colley, Mr. Edward Pomeroy","male",47,0,0,"5727",25.5875,"E58","S","None",NA,"Victoria, BC",1
+"77",1,1,"Compton, Miss. Sara Rebecca","female",39,1,1,"PC 17756",83.1583,"E49","C","14",NA,"Lakewood, NJ",1
+"78",1,0,"Compton, Mr. Alexander Taylor Jr","male",37,1,1,"PC 17756",83.1583,"E52","C","None",NA,"Lakewood, NJ",1
+"79",1,1,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)","female",64,0,2,"PC 17756",83.1583,"E45","C","14",NA,"Lakewood, NJ",1
+"80",1,1,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)","female",55,2,0,"11770",25.7,"C101","S","2",NA,"New York, NY",1
 "81",1,0,"Crafton, Mr. John Bertram","male",29.8811345124283,0,0,"113791",26.55,"","S","None",NA,"Roachdale, IN",0
-"82",1,0,"Crosby, Capt. Edward Gifford","male",70,1,1,"WE/P 5735",71,"B22","S","None",269,"Milwaukee, WI",0
-"83",1,1,"Crosby, Miss. Harriet R","female",36,0,2,"WE/P 5735",71,"B22","S","7",NA,"Milwaukee, WI",0
-"84",1,1,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)","female",64,1,1,"112901",26.55,"B26","S","7",NA,"Milwaukee, WI",0
-"85",1,0,"Cumings, Mr. John Bradley","male",39,1,0,"PC 17599",71.2833,"C85","C","None",NA,"New York, NY",0
-"86",1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)","female",38,1,0,"PC 17599",71.2833,"C85","C","4",NA,"New York, NY",0
-"87",1,1,"Daly, Mr. Peter Denis ","male",51,0,0,"113055",26.55,"E17","S","5 9",NA,"Lima, Peru",0
+"82",1,0,"Crosby, Capt. Edward Gifford","male",70,1,1,"WE/P 5735",71,"B22","S","None",269,"Milwaukee, WI",1
+"83",1,1,"Crosby, Miss. Harriet R","female",36,0,2,"WE/P 5735",71,"B22","S","7",NA,"Milwaukee, WI",1
+"84",1,1,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)","female",64,1,1,"112901",26.55,"B26","S","7",NA,"Milwaukee, WI",1
+"85",1,0,"Cumings, Mr. John Bradley","male",39,1,0,"PC 17599",71.2833,"C85","C","None",NA,"New York, NY",1
+"86",1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)","female",38,1,0,"PC 17599",71.2833,"C85","C","4",NA,"New York, NY",1
+"87",1,1,"Daly, Mr. Peter Denis ","male",51,0,0,"113055",26.55,"E17","S","5 9",NA,"Lima, Peru",1
 "88",1,1,"Daniel, Mr. Robert Williams","male",27,0,0,"113804",30.5,"","S","3",NA,"Philadelphia, PA",0
 "89",1,1,"Daniels, Miss. Sarah","female",33,0,0,"113781",151.55,"","S","8",NA,"",0
-"90",1,0,"Davidson, Mr. Thornton","male",31,1,0,"F.C. 12750",52,"B71","S","None",NA,"Montreal, PQ",0
-"91",1,1,"Davidson, Mrs. Thornton (Orian Hays)","female",27,1,2,"F.C. 12750",52,"B71","S","3",NA,"Montreal, PQ",0
-"92",1,1,"Dick, Mr. Albert Adrian","male",31,1,0,"17474",57,"B20","S","3",NA,"Calgary, AB",0
-"93",1,1,"Dick, Mrs. Albert Adrian (Vera Gillespie)","female",17,1,0,"17474",57,"B20","S","3",NA,"Calgary, AB",0
-"94",1,1,"Dodge, Dr. Washington","male",53,1,1,"33638",81.8583,"A34","S","13",NA,"San Francisco, CA",0
-"95",1,1,"Dodge, Master. Washington","male",4,0,2,"33638",81.8583,"A34","S","5",NA,"San Francisco, CA",0
-"96",1,1,"Dodge, Mrs. Washington (Ruth Vidaver)","female",54,1,1,"33638",81.8583,"A34","S","5",NA,"San Francisco, CA",0
-"97",1,0,"Douglas, Mr. Walter Donald","male",50,1,0,"PC 17761",106.425,"C86","C","None",62,"Deephaven, MN / Cedar Rapids, IA",0
-"98",1,1,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)","female",27,1,1,"PC 17558",247.5208,"B58 B60","C","6",NA,"Montreal, PQ",0
-"99",1,1,"Douglas, Mrs. Walter Donald (Mahala Dutton)","female",48,1,0,"PC 17761",106.425,"C86","C","2",NA,"Deephaven, MN / Cedar Rapids, IA",0
-"100",1,1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")","female",48,1,0,"11755",39.6,"A16","C","1",NA,"London / Paris",0
-"101",1,1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")","male",49,1,0,"PC 17485",56.9292,"A20","C","1",NA,"London / Paris",0
-"102",1,0,"Dulles, Mr. William Crothers","male",39,0,0,"PC 17580",29.7,"A18","C","None",133,"Philadelphia, PA",0
-"103",1,1,"Earnshaw, Mrs. Boulton (Olive Potter)","female",23,0,1,"11767",83.1583,"C54","C","7",NA,"Mt Airy, Philadelphia, PA",0
-"104",1,1,"Endres, Miss. Caroline Louise","female",38,0,0,"PC 17757",227.525,"C45","C","4",NA,"New York, NY",0
-"105",1,1,"Eustis, Miss. Elizabeth Mussey","female",54,1,0,"36947",78.2667,"D20","C","4",NA,"Brookline, MA",0
-"106",1,0,"Evans, Miss. Edith Corse","female",36,0,0,"PC 17531",31.6792,"A29","C","None",NA,"New York, NY",0
-"107",1,0,"Farthing, Mr. John","male",29.8811345124283,0,0,"PC 17483",221.7792,"C95","S","None",NA,"",0
+"90",1,0,"Davidson, Mr. Thornton","male",31,1,0,"F.C. 12750",52,"B71","S","None",NA,"Montreal, PQ",1
+"91",1,1,"Davidson, Mrs. Thornton (Orian Hays)","female",27,1,2,"F.C. 12750",52,"B71","S","3",NA,"Montreal, PQ",1
+"92",1,1,"Dick, Mr. Albert Adrian","male",31,1,0,"17474",57,"B20","S","3",NA,"Calgary, AB",1
+"93",1,1,"Dick, Mrs. Albert Adrian (Vera Gillespie)","female",17,1,0,"17474",57,"B20","S","3",NA,"Calgary, AB",1
+"94",1,1,"Dodge, Dr. Washington","male",53,1,1,"33638",81.8583,"A34","S","13",NA,"San Francisco, CA",1
+"95",1,1,"Dodge, Master. Washington","male",4,0,2,"33638",81.8583,"A34","S","5",NA,"San Francisco, CA",1
+"96",1,1,"Dodge, Mrs. Washington (Ruth Vidaver)","female",54,1,1,"33638",81.8583,"A34","S","5",NA,"San Francisco, CA",1
+"97",1,0,"Douglas, Mr. Walter Donald","male",50,1,0,"PC 17761",106.425,"C86","C","None",62,"Deephaven, MN / Cedar Rapids, IA",1
+"98",1,1,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)","female",27,1,1,"PC 17558",247.5208,"B58 B60","C","6",NA,"Montreal, PQ",1
+"99",1,1,"Douglas, Mrs. Walter Donald (Mahala Dutton)","female",48,1,0,"PC 17761",106.425,"C86","C","2",NA,"Deephaven, MN / Cedar Rapids, IA",1
+"100",1,1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")","female",48,1,0,"11755",39.6,"A16","C","1",NA,"London / Paris",1
+"101",1,1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")","male",49,1,0,"PC 17485",56.9292,"A20","C","1",NA,"London / Paris",1
+"102",1,0,"Dulles, Mr. William Crothers","male",39,0,0,"PC 17580",29.7,"A18","C","None",133,"Philadelphia, PA",1
+"103",1,1,"Earnshaw, Mrs. Boulton (Olive Potter)","female",23,0,1,"11767",83.1583,"C54","C","7",NA,"Mt Airy, Philadelphia, PA",1
+"104",1,1,"Endres, Miss. Caroline Louise","female",38,0,0,"PC 17757",227.525,"C45","C","4",NA,"New York, NY",1
+"105",1,1,"Eustis, Miss. Elizabeth Mussey","female",54,1,0,"36947",78.2667,"D20","C","4",NA,"Brookline, MA",1
+"106",1,0,"Evans, Miss. Edith Corse","female",36,0,0,"PC 17531",31.6792,"A29","C","None",NA,"New York, NY",1
+"107",1,0,"Farthing, Mr. John","male",29.8811345124283,0,0,"PC 17483",221.7792,"C95","S","None",NA,"",1
 "108",1,1,"Flegenheim, Mrs. Alfred (Antoinette)","female",29.8811345124283,0,0,"PC 17598",31.6833,"","S","7",NA,"New York, NY",0
 "109",1,1,"Fleming, Miss. Margaret","female",29.8811345124283,0,0,"17421",110.8833,"","C","4",NA,"",0
-"110",1,1,"Flynn, Mr. John Irwin (""Irving"")","male",36,0,0,"PC 17474",26.3875,"E25","S","5",NA,"Brooklyn, NY",0
-"111",1,0,"Foreman, Mr. Benjamin Laventall","male",30,0,0,"113051",27.75,"C111","C","None",NA,"New York, NY",0
-"112",1,1,"Fortune, Miss. Alice Elizabeth","female",24,3,2,"19950",263,"C23 C25 C27","S","10",NA,"Winnipeg, MB",0
-"113",1,1,"Fortune, Miss. Ethel Flora","female",28,3,2,"19950",263,"C23 C25 C27","S","10",NA,"Winnipeg, MB",0
-"114",1,1,"Fortune, Miss. Mabel Helen","female",23,3,2,"19950",263,"C23 C25 C27","S","10",NA,"Winnipeg, MB",0
-"115",1,0,"Fortune, Mr. Charles Alexander","male",19,3,2,"19950",263,"C23 C25 C27","S","None",NA,"Winnipeg, MB",0
-"116",1,0,"Fortune, Mr. Mark","male",64,1,4,"19950",263,"C23 C25 C27","S","None",NA,"Winnipeg, MB",0
-"117",1,1,"Fortune, Mrs. Mark (Mary McDougald)","female",60,1,4,"19950",263,"C23 C25 C27","S","10",NA,"Winnipeg, MB",0
-"118",1,1,"Francatelli, Miss. Laura Mabel","female",30,0,0,"PC 17485",56.9292,"E36","C","1",NA,"",0
-"119",1,0,"Franklin, Mr. Thomas Parham","male",29.8811345124283,0,0,"113778",26.55,"D34","S","None",NA,"Westcliff-on-Sea, Essex",0
+"110",1,1,"Flynn, Mr. John Irwin (""Irving"")","male",36,0,0,"PC 17474",26.3875,"E25","S","5",NA,"Brooklyn, NY",1
+"111",1,0,"Foreman, Mr. Benjamin Laventall","male",30,0,0,"113051",27.75,"C111","C","None",NA,"New York, NY",1
+"112",1,1,"Fortune, Miss. Alice Elizabeth","female",24,3,2,"19950",263,"C23 C25 C27","S","10",NA,"Winnipeg, MB",1
+"113",1,1,"Fortune, Miss. Ethel Flora","female",28,3,2,"19950",263,"C23 C25 C27","S","10",NA,"Winnipeg, MB",1
+"114",1,1,"Fortune, Miss. Mabel Helen","female",23,3,2,"19950",263,"C23 C25 C27","S","10",NA,"Winnipeg, MB",1
+"115",1,0,"Fortune, Mr. Charles Alexander","male",19,3,2,"19950",263,"C23 C25 C27","S","None",NA,"Winnipeg, MB",1
+"116",1,0,"Fortune, Mr. Mark","male",64,1,4,"19950",263,"C23 C25 C27","S","None",NA,"Winnipeg, MB",1
+"117",1,1,"Fortune, Mrs. Mark (Mary McDougald)","female",60,1,4,"19950",263,"C23 C25 C27","S","10",NA,"Winnipeg, MB",1
+"118",1,1,"Francatelli, Miss. Laura Mabel","female",30,0,0,"PC 17485",56.9292,"E36","C","1",NA,"",1
+"119",1,0,"Franklin, Mr. Thomas Parham","male",29.8811345124283,0,0,"113778",26.55,"D34","S","None",NA,"Westcliff-on-Sea, Essex",1
 "120",1,1,"Frauenthal, Dr. Henry William","male",50,2,0,"PC 17611",133.65,"","S","5",NA,"New York, NY",0
-"121",1,1,"Frauenthal, Mr. Isaac Gerald","male",43,1,0,"17765",27.7208,"D40","C","5",NA,"New York, NY",0
+"121",1,1,"Frauenthal, Mr. Isaac Gerald","male",43,1,0,"17765",27.7208,"D40","C","5",NA,"New York, NY",1
 "122",1,1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)","female",29.8811345124283,1,0,"PC 17611",133.65,"","S","5",NA,"New York, NY",0
-"123",1,1,"Frolicher, Miss. Hedwig Margaritha","female",22,0,2,"13568",49.5,"B39","C","5",NA,"Zurich, Switzerland",0
-"124",1,1,"Frolicher-Stehli, Mr. Maxmillian","male",60,1,1,"13567",79.2,"B41","C","5",NA,"Zurich, Switzerland",0
-"125",1,1,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)","female",48,1,1,"13567",79.2,"B41","C","5",NA,"Zurich, Switzerland",0
-"126",1,0,"Fry, Mr. Richard","male",29.8811345124283,0,0,"112058",0,"B102","S","None",NA,"",0
-"127",1,0,"Futrelle, Mr. Jacques Heath","male",37,1,0,"113803",53.1,"C123","S","None",NA,"Scituate, MA",0
-"128",1,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)","female",35,1,0,"113803",53.1,"C123","S","D",NA,"Scituate, MA",0
-"129",1,0,"Gee, Mr. Arthur H","male",47,0,0,"111320",38.5,"E63","S","None",275,"St Anne's-on-Sea, Lancashire",0
-"130",1,1,"Geiger, Miss. Amalie","female",35,0,0,"113503",211.5,"C130","C","4",NA,"",0
+"123",1,1,"Frolicher, Miss. Hedwig Margaritha","female",22,0,2,"13568",49.5,"B39","C","5",NA,"Zurich, Switzerland",1
+"124",1,1,"Frolicher-Stehli, Mr. Maxmillian","male",60,1,1,"13567",79.2,"B41","C","5",NA,"Zurich, Switzerland",1
+"125",1,1,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)","female",48,1,1,"13567",79.2,"B41","C","5",NA,"Zurich, Switzerland",1
+"126",1,0,"Fry, Mr. Richard","male",29.8811345124283,0,0,"112058",0,"B102","S","None",NA,"",1
+"127",1,0,"Futrelle, Mr. Jacques Heath","male",37,1,0,"113803",53.1,"C123","S","None",NA,"Scituate, MA",1
+"128",1,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)","female",35,1,0,"113803",53.1,"C123","S","D",NA,"Scituate, MA",1
+"129",1,0,"Gee, Mr. Arthur H","male",47,0,0,"111320",38.5,"E63","S","None",275,"St Anne's-on-Sea, Lancashire",1
+"130",1,1,"Geiger, Miss. Amalie","female",35,0,0,"113503",211.5,"C130","C","4",NA,"",1
 "131",1,1,"Gibson, Miss. Dorothy Winifred","female",22,0,1,"112378",59.4,"","C","7",NA,"New York, NY",0
 "132",1,1,"Gibson, Mrs. Leonard (Pauline C Boeson)","female",45,0,1,"112378",59.4,"","C","7",NA,"New York, NY",0
-"133",1,0,"Giglio, Mr. Victor","male",24,0,0,"PC 17593",79.2,"B86","C","None",NA,"",0
-"134",1,1,"Goldenberg, Mr. Samuel L","male",49,1,0,"17453",89.1042,"C92","C","5",NA,"Paris, France / New York, NY",0
-"135",1,1,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)","female",29.8811345124283,1,0,"17453",89.1042,"C92","C","5",NA,"Paris, France / New York, NY",0
-"136",1,0,"Goldschmidt, Mr. George B","male",71,0,0,"PC 17754",34.6542,"A5","C","None",NA,"New York, NY",0
-"137",1,1,"Gracie, Col. Archibald IV","male",53,0,0,"113780",28.5,"C51","C","B",NA,"Washington, DC",0
-"138",1,1,"Graham, Miss. Margaret Edith","female",19,0,0,"112053",30,"B42","S","3",NA,"Greenwich, CT",0
-"139",1,0,"Graham, Mr. George Edward","male",38,0,1,"PC 17582",153.4625,"C91","S","None",147,"Winnipeg, MB",0
-"140",1,1,"Graham, Mrs. William Thompson (Edith Junkins)","female",58,0,1,"PC 17582",153.4625,"C125","S","3",NA,"Greenwich, CT",0
-"141",1,1,"Greenfield, Mr. William Bertram","male",23,0,1,"PC 17759",63.3583,"D10 D12","C","7",NA,"New York, NY",0
-"142",1,1,"Greenfield, Mrs. Leo David (Blanche Strouse)","female",45,0,1,"PC 17759",63.3583,"D10 D12","C","7",NA,"New York, NY",0
-"143",1,0,"Guggenheim, Mr. Benjamin","male",46,0,0,"PC 17593",79.2,"B82 B84","C","None",NA,"New York, NY",0
-"144",1,1,"Harder, Mr. George Achilles","male",25,1,0,"11765",55.4417,"E50","C","5",NA,"Brooklyn, NY",0
-"145",1,1,"Harder, Mrs. George Achilles (Dorothy Annan)","female",25,1,0,"11765",55.4417,"E50","C","5",NA,"Brooklyn, NY",0
-"146",1,1,"Harper, Mr. Henry Sleeper","male",48,1,0,"PC 17572",76.7292,"D33","C","3",NA,"New York, NY",0
-"147",1,1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)","female",49,1,0,"PC 17572",76.7292,"D33","C","3",NA,"New York, NY",0
+"133",1,0,"Giglio, Mr. Victor","male",24,0,0,"PC 17593",79.2,"B86","C","None",NA,"",1
+"134",1,1,"Goldenberg, Mr. Samuel L","male",49,1,0,"17453",89.1042,"C92","C","5",NA,"Paris, France / New York, NY",1
+"135",1,1,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)","female",29.8811345124283,1,0,"17453",89.1042,"C92","C","5",NA,"Paris, France / New York, NY",1
+"136",1,0,"Goldschmidt, Mr. George B","male",71,0,0,"PC 17754",34.6542,"A5","C","None",NA,"New York, NY",1
+"137",1,1,"Gracie, Col. Archibald IV","male",53,0,0,"113780",28.5,"C51","C","B",NA,"Washington, DC",1
+"138",1,1,"Graham, Miss. Margaret Edith","female",19,0,0,"112053",30,"B42","S","3",NA,"Greenwich, CT",1
+"139",1,0,"Graham, Mr. George Edward","male",38,0,1,"PC 17582",153.4625,"C91","S","None",147,"Winnipeg, MB",1
+"140",1,1,"Graham, Mrs. William Thompson (Edith Junkins)","female",58,0,1,"PC 17582",153.4625,"C125","S","3",NA,"Greenwich, CT",1
+"141",1,1,"Greenfield, Mr. William Bertram","male",23,0,1,"PC 17759",63.3583,"D10 D12","C","7",NA,"New York, NY",1
+"142",1,1,"Greenfield, Mrs. Leo David (Blanche Strouse)","female",45,0,1,"PC 17759",63.3583,"D10 D12","C","7",NA,"New York, NY",1
+"143",1,0,"Guggenheim, Mr. Benjamin","male",46,0,0,"PC 17593",79.2,"B82 B84","C","None",NA,"New York, NY",1
+"144",1,1,"Harder, Mr. George Achilles","male",25,1,0,"11765",55.4417,"E50","C","5",NA,"Brooklyn, NY",1
+"145",1,1,"Harder, Mrs. George Achilles (Dorothy Annan)","female",25,1,0,"11765",55.4417,"E50","C","5",NA,"Brooklyn, NY",1
+"146",1,1,"Harper, Mr. Henry Sleeper","male",48,1,0,"PC 17572",76.7292,"D33","C","3",NA,"New York, NY",1
+"147",1,1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)","female",49,1,0,"PC 17572",76.7292,"D33","C","3",NA,"New York, NY",1
 "148",1,0,"Harrington, Mr. Charles H","male",29.8811345124283,0,0,"113796",42.4,"","S","None",NA,"",0
-"149",1,0,"Harris, Mr. Henry Birkhardt","male",45,1,0,"36973",83.475,"C83","S","None",NA,"New York, NY",0
-"150",1,1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)","female",35,1,0,"36973",83.475,"C83","S","D",NA,"New York, NY",0
-"151",1,0,"Harrison, Mr. William","male",40,0,0,"112059",0,"B94","S","None",110,"",0
-"152",1,1,"Hassab, Mr. Hammad","male",27,0,0,"PC 17572",76.7292,"D49","C","3",NA,"",0
-"153",1,1,"Hawksford, Mr. Walter James","male",29.8811345124283,0,0,"16988",30,"D45","S","3",NA,"Kingston, Surrey",0
-"154",1,1,"Hays, Miss. Margaret Bechstein","female",24,0,0,"11767",83.1583,"C54","C","7",NA,"New York, NY",0
-"155",1,0,"Hays, Mr. Charles Melville","male",55,1,1,"12749",93.5,"B69","S","None",307,"Montreal, PQ",0
-"156",1,1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)","female",52,1,1,"12749",93.5,"B69","S","3",NA,"Montreal, PQ",0
-"157",1,0,"Head, Mr. Christopher","male",42,0,0,"113038",42.5,"B11","S","None",NA,"London / Middlesex",0
-"158",1,0,"Hilliard, Mr. Herbert Henry","male",29.8811345124283,0,0,"17463",51.8625,"E46","S","None",NA,"Brighton, MA",0
-"159",1,0,"Hipkins, Mr. William Edward","male",55,0,0,"680",50,"C39","S","None",NA,"London / Birmingham",0
-"160",1,1,"Hippach, Miss. Jean Gertrude","female",16,0,1,"111361",57.9792,"B18","C","4",NA,"Chicago, IL",0
-"161",1,1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)","female",44,0,1,"111361",57.9792,"B18","C","4",NA,"Chicago, IL",0
-"162",1,1,"Hogeboom, Mrs. John C (Anna Andrews)","female",51,1,0,"13502",77.9583,"D11","S","10",NA,"Hudson, NY",0
+"149",1,0,"Harris, Mr. Henry Birkhardt","male",45,1,0,"36973",83.475,"C83","S","None",NA,"New York, NY",1
+"150",1,1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)","female",35,1,0,"36973",83.475,"C83","S","D",NA,"New York, NY",1
+"151",1,0,"Harrison, Mr. William","male",40,0,0,"112059",0,"B94","S","None",110,"",1
+"152",1,1,"Hassab, Mr. Hammad","male",27,0,0,"PC 17572",76.7292,"D49","C","3",NA,"",1
+"153",1,1,"Hawksford, Mr. Walter James","male",29.8811345124283,0,0,"16988",30,"D45","S","3",NA,"Kingston, Surrey",1
+"154",1,1,"Hays, Miss. Margaret Bechstein","female",24,0,0,"11767",83.1583,"C54","C","7",NA,"New York, NY",1
+"155",1,0,"Hays, Mr. Charles Melville","male",55,1,1,"12749",93.5,"B69","S","None",307,"Montreal, PQ",1
+"156",1,1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)","female",52,1,1,"12749",93.5,"B69","S","3",NA,"Montreal, PQ",1
+"157",1,0,"Head, Mr. Christopher","male",42,0,0,"113038",42.5,"B11","S","None",NA,"London / Middlesex",1
+"158",1,0,"Hilliard, Mr. Herbert Henry","male",29.8811345124283,0,0,"17463",51.8625,"E46","S","None",NA,"Brighton, MA",1
+"159",1,0,"Hipkins, Mr. William Edward","male",55,0,0,"680",50,"C39","S","None",NA,"London / Birmingham",1
+"160",1,1,"Hippach, Miss. Jean Gertrude","female",16,0,1,"111361",57.9792,"B18","C","4",NA,"Chicago, IL",1
+"161",1,1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)","female",44,0,1,"111361",57.9792,"B18","C","4",NA,"Chicago, IL",1
+"162",1,1,"Hogeboom, Mrs. John C (Anna Andrews)","female",51,1,0,"13502",77.9583,"D11","S","10",NA,"Hudson, NY",1
 "163",1,0,"Holverson, Mr. Alexander Oskar","male",42,1,0,"113789",52,"","S","None",38,"New York, NY",0
 "164",1,1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)","female",35,1,0,"113789",52,"","S","8",NA,"New York, NY",0
 "165",1,1,"Homer, Mr. Harry (""Mr E Haven"")","male",35,0,0,"111426",26.55,"","C","15",NA,"Indianapolis, IN",0
-"166",1,1,"Hoyt, Mr. Frederick Maxfield","male",38,1,0,"19943",90,"C93","S","D",NA,"New York, NY /  Stamford CT",0
+"166",1,1,"Hoyt, Mr. Frederick Maxfield","male",38,1,0,"19943",90,"C93","S","D",NA,"New York, NY /  Stamford CT",1
 "167",1,0,"Hoyt, Mr. William Fisher","male",29.8811345124283,0,0,"PC 17600",30.6958,"","C","14",NA,"New York, NY",0
-"168",1,1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)","female",35,1,0,"19943",90,"C93","S","D",NA,"New York, NY /  Stamford CT",0
-"169",1,1,"Icard, Miss. Amelie","female",38,0,0,"113572",80,"B28","S","6",NA,"",0
-"170",1,0,"Isham, Miss. Ann Elizabeth","female",50,0,0,"PC 17595",28.7125,"C49","C","None",NA,"Paris, France New York, NY",0
-"171",1,1,"Ismay, Mr. Joseph Bruce","male",49,0,0,"112058",0,"B52 B54 B56","S","C",NA,"Liverpool",0
+"168",1,1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)","female",35,1,0,"19943",90,"C93","S","D",NA,"New York, NY /  Stamford CT",1
+"169",1,1,"Icard, Miss. Amelie","female",38,0,0,"113572",80,"B28","S","6",NA,"",1
+"170",1,0,"Isham, Miss. Ann Elizabeth","female",50,0,0,"PC 17595",28.7125,"C49","C","None",NA,"Paris, France New York, NY",1
+"171",1,1,"Ismay, Mr. Joseph Bruce","male",49,0,0,"112058",0,"B52 B54 B56","S","C",NA,"Liverpool",1
 "172",1,0,"Jones, Mr. Charles Cresson","male",46,0,0,"694",26,"","S","None",80,"Bennington, VT",0
-"173",1,0,"Julian, Mr. Henry Forbes","male",50,0,0,"113044",26,"E60","S","None",NA,"London",0
-"174",1,0,"Keeping, Mr. Edwin","male",32.5,0,0,"113503",211.5,"C132","C","None",45,"",0
-"175",1,0,"Kent, Mr. Edward Austin","male",58,0,0,"11771",29.7,"B37","C","None",258,"Buffalo, NY",0
-"176",1,0,"Kenyon, Mr. Frederick R","male",41,1,0,"17464",51.8625,"D21","S","None",NA,"Southington / Noank, CT",0
-"177",1,1,"Kenyon, Mrs. Frederick R (Marion)","female",29.8811345124283,1,0,"17464",51.8625,"D21","S","8",NA,"Southington / Noank, CT",0
-"178",1,1,"Kimball, Mr. Edwin Nelson Jr","male",42,1,0,"11753",52.5542,"D19","S","5",NA,"Boston, MA",0
-"179",1,1,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)","female",45,1,0,"11753",52.5542,"D19","S","5",NA,"Boston, MA",0
-"180",1,0,"Klaber, Mr. Herman","male",29.8811345124283,0,0,"113028",26.55,"C124","S","None",NA,"Portland, OR",0
+"173",1,0,"Julian, Mr. Henry Forbes","male",50,0,0,"113044",26,"E60","S","None",NA,"London",1
+"174",1,0,"Keeping, Mr. Edwin","male",32.5,0,0,"113503",211.5,"C132","C","None",45,"",1
+"175",1,0,"Kent, Mr. Edward Austin","male",58,0,0,"11771",29.7,"B37","C","None",258,"Buffalo, NY",1
+"176",1,0,"Kenyon, Mr. Frederick R","male",41,1,0,"17464",51.8625,"D21","S","None",NA,"Southington / Noank, CT",1
+"177",1,1,"Kenyon, Mrs. Frederick R (Marion)","female",29.8811345124283,1,0,"17464",51.8625,"D21","S","8",NA,"Southington / Noank, CT",1
+"178",1,1,"Kimball, Mr. Edwin Nelson Jr","male",42,1,0,"11753",52.5542,"D19","S","5",NA,"Boston, MA",1
+"179",1,1,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)","female",45,1,0,"11753",52.5542,"D19","S","5",NA,"Boston, MA",1
+"180",1,0,"Klaber, Mr. Herman","male",29.8811345124283,0,0,"113028",26.55,"C124","S","None",NA,"Portland, OR",1
 "181",1,1,"Kreuchen, Miss. Emilie","female",39,0,0,"24160",211.3375,"","S","2",NA,"",0
-"182",1,1,"Leader, Dr. Alice (Farnham)","female",49,0,0,"17465",25.9292,"D17","S","8",NA,"New York, NY",0
+"182",1,1,"Leader, Dr. Alice (Farnham)","female",49,0,0,"17465",25.9292,"D17","S","8",NA,"New York, NY",1
 "183",1,1,"LeRoy, Miss. Bertha","female",30,0,0,"PC 17761",106.425,"","C","2",NA,"",0
-"184",1,1,"Lesurer, Mr. Gustave J","male",35,0,0,"PC 17755",512.3292,"B101","C","3",NA,"",0
+"184",1,1,"Lesurer, Mr. Gustave J","male",35,0,0,"PC 17755",512.3292,"B101","C","3",NA,"",1
 "185",1,0,"Lewy, Mr. Ervin G","male",29.8811345124283,0,0,"PC 17612",27.7208,"","C","None",NA,"Chicago, IL",0
 "186",1,0,"Lindeberg-Lind, Mr. Erik Gustaf (""Mr Edward Lingrey"")","male",42,0,0,"17475",26.55,"","S","None",NA,"Stockholm, Sweden",0
 "187",1,1,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)","female",55,0,0,"112377",27.7208,"","C","6",NA,"Stockholm, Sweden",0
-"188",1,1,"Lines, Miss. Mary Conover","female",16,0,1,"PC 17592",39.4,"D28","S","9",NA,"Paris, France",0
-"189",1,1,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)","female",51,0,1,"PC 17592",39.4,"D28","S","9",NA,"Paris, France",0
-"190",1,0,"Long, Mr. Milton Clyde","male",29,0,0,"113501",30,"D6","S","None",126,"Springfield, MA",0
-"191",1,1,"Longley, Miss. Gretchen Fiske","female",21,0,0,"13502",77.9583,"D9","S","10",NA,"Hudson, NY",0
+"188",1,1,"Lines, Miss. Mary Conover","female",16,0,1,"PC 17592",39.4,"D28","S","9",NA,"Paris, France",1
+"189",1,1,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)","female",51,0,1,"PC 17592",39.4,"D28","S","9",NA,"Paris, France",1
+"190",1,0,"Long, Mr. Milton Clyde","male",29,0,0,"113501",30,"D6","S","None",126,"Springfield, MA",1
+"191",1,1,"Longley, Miss. Gretchen Fiske","female",21,0,0,"13502",77.9583,"D9","S","10",NA,"Hudson, NY",1
 "192",1,0,"Loring, Mr. Joseph Holland","male",30,0,0,"113801",45.5,"","S","None",NA,"London / New York, NY",0
-"193",1,1,"Lurette, Miss. Elise","female",58,0,0,"PC 17569",146.5208,"B80","C","None",NA,"",0
-"194",1,1,"Madill, Miss. Georgette Alexandra","female",15,0,1,"24160",211.3375,"B5","S","2",NA,"St Louis, MO",0
-"195",1,0,"Maguire, Mr. John Edward","male",30,0,0,"110469",26,"C106","S","None",NA,"Brockton, MA",0
-"196",1,1,"Maioni, Miss. Roberta","female",16,0,0,"110152",86.5,"B79","S","8",NA,"",0
-"197",1,1,"Marechal, Mr. Pierre","male",29.8811345124283,0,0,"11774",29.7,"C47","C","7",NA,"Paris, France",0
-"198",1,0,"Marvin, Mr. Daniel Warner","male",19,1,0,"113773",53.1,"D30","S","None",NA,"New York, NY",0
-"199",1,1,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)","female",18,1,0,"113773",53.1,"D30","S","10",NA,"New York, NY",0
-"200",1,1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")","female",24,0,0,"PC 17482",49.5042,"C90","C","6",NA,"Belgium  Montreal, PQ",0
-"201",1,0,"McCaffry, Mr. Thomas Francis","male",46,0,0,"13050",75.2417,"C6","C","None",292,"Vancouver, BC",0
-"202",1,0,"McCarthy, Mr. Timothy J","male",54,0,0,"17463",51.8625,"E46","S","None",175,"Dorchester, MA",0
-"203",1,1,"McGough, Mr. James Robert","male",36,0,0,"PC 17473",26.2875,"E25","S","7",NA,"Philadelphia, PA",0
+"193",1,1,"Lurette, Miss. Elise","female",58,0,0,"PC 17569",146.5208,"B80","C","None",NA,"",1
+"194",1,1,"Madill, Miss. Georgette Alexandra","female",15,0,1,"24160",211.3375,"B5","S","2",NA,"St Louis, MO",1
+"195",1,0,"Maguire, Mr. John Edward","male",30,0,0,"110469",26,"C106","S","None",NA,"Brockton, MA",1
+"196",1,1,"Maioni, Miss. Roberta","female",16,0,0,"110152",86.5,"B79","S","8",NA,"",1
+"197",1,1,"Marechal, Mr. Pierre","male",29.8811345124283,0,0,"11774",29.7,"C47","C","7",NA,"Paris, France",1
+"198",1,0,"Marvin, Mr. Daniel Warner","male",19,1,0,"113773",53.1,"D30","S","None",NA,"New York, NY",1
+"199",1,1,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)","female",18,1,0,"113773",53.1,"D30","S","10",NA,"New York, NY",1
+"200",1,1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")","female",24,0,0,"PC 17482",49.5042,"C90","C","6",NA,"Belgium  Montreal, PQ",1
+"201",1,0,"McCaffry, Mr. Thomas Francis","male",46,0,0,"13050",75.2417,"C6","C","None",292,"Vancouver, BC",1
+"202",1,0,"McCarthy, Mr. Timothy J","male",54,0,0,"17463",51.8625,"E46","S","None",175,"Dorchester, MA",1
+"203",1,1,"McGough, Mr. James Robert","male",36,0,0,"PC 17473",26.2875,"E25","S","7",NA,"Philadelphia, PA",1
 "204",1,0,"Meyer, Mr. Edgar Joseph","male",28,1,0,"PC 17604",82.1708,"","C","None",NA,"New York, NY",0
 "205",1,1,"Meyer, Mrs. Edgar Joseph (Leila Saks)","female",29.8811345124283,1,0,"PC 17604",82.1708,"","C","6",NA,"New York, NY",0
-"206",1,0,"Millet, Mr. Francis Davis","male",65,0,0,"13509",26.55,"E38","S","None",249,"East Bridgewater, MA",0
-"207",1,0,"Minahan, Dr. William Edward","male",44,2,0,"19928",90,"C78","Q","None",230,"Fond du Lac, WI",0
-"208",1,1,"Minahan, Miss. Daisy E","female",33,1,0,"19928",90,"C78","Q","14",NA,"Green Bay, WI",0
-"209",1,1,"Minahan, Mrs. William Edward (Lillian E Thorpe)","female",37,1,0,"19928",90,"C78","Q","14",NA,"Fond du Lac, WI",0
-"210",1,1,"Mock, Mr. Philipp Edmund","male",30,1,0,"13236",57.75,"C78","C","11",NA,"New York, NY",0
-"211",1,0,"Molson, Mr. Harry Markland","male",55,0,0,"113787",30.5,"C30","S","None",NA,"Montreal, PQ",0
+"206",1,0,"Millet, Mr. Francis Davis","male",65,0,0,"13509",26.55,"E38","S","None",249,"East Bridgewater, MA",1
+"207",1,0,"Minahan, Dr. William Edward","male",44,2,0,"19928",90,"C78","Q","None",230,"Fond du Lac, WI",1
+"208",1,1,"Minahan, Miss. Daisy E","female",33,1,0,"19928",90,"C78","Q","14",NA,"Green Bay, WI",1
+"209",1,1,"Minahan, Mrs. William Edward (Lillian E Thorpe)","female",37,1,0,"19928",90,"C78","Q","14",NA,"Fond du Lac, WI",1
+"210",1,1,"Mock, Mr. Philipp Edmund","male",30,1,0,"13236",57.75,"C78","C","11",NA,"New York, NY",1
+"211",1,0,"Molson, Mr. Harry Markland","male",55,0,0,"113787",30.5,"C30","S","None",NA,"Montreal, PQ",1
 "212",1,0,"Moore, Mr. Clarence Bloomfield","male",47,0,0,"113796",42.4,"","S","None",NA,"Washington, DC",0
-"213",1,0,"Natsch, Mr. Charles H","male",37,0,1,"PC 17596",29.7,"C118","C","None",NA,"Brooklyn, NY",0
-"214",1,1,"Newell, Miss. Madeleine","female",31,1,0,"35273",113.275,"D36","C","6",NA,"Lexington, MA",0
-"215",1,1,"Newell, Miss. Marjorie","female",23,1,0,"35273",113.275,"D36","C","6",NA,"Lexington, MA",0
-"216",1,0,"Newell, Mr. Arthur Webster","male",58,0,2,"35273",113.275,"D48","C","None",122,"Lexington, MA",0
-"217",1,1,"Newsom, Miss. Helen Monypeny","female",19,0,2,"11752",26.2833,"D47","S","5",NA,"New York, NY",0
+"213",1,0,"Natsch, Mr. Charles H","male",37,0,1,"PC 17596",29.7,"C118","C","None",NA,"Brooklyn, NY",1
+"214",1,1,"Newell, Miss. Madeleine","female",31,1,0,"35273",113.275,"D36","C","6",NA,"Lexington, MA",1
+"215",1,1,"Newell, Miss. Marjorie","female",23,1,0,"35273",113.275,"D36","C","6",NA,"Lexington, MA",1
+"216",1,0,"Newell, Mr. Arthur Webster","male",58,0,2,"35273",113.275,"D48","C","None",122,"Lexington, MA",1
+"217",1,1,"Newsom, Miss. Helen Monypeny","female",19,0,2,"11752",26.2833,"D47","S","5",NA,"New York, NY",1
 "218",1,0,"Nicholson, Mr. Arthur Ernest","male",64,0,0,"693",26,"","S","None",263,"Isle of Wight, England",0
-"219",1,1,"Oliva y Ocana, Dona. Fermina","female",39,0,0,"PC 17758",108.9,"C105","C","8",NA,"",0
+"219",1,1,"Oliva y Ocana, Dona. Fermina","female",39,0,0,"PC 17758",108.9,"C105","C","8",NA,"",1
 "220",1,1,"Omont, Mr. Alfred Fernand","male",29.8811345124283,0,0,"F.C. 12998",25.7417,"","C","7",NA,"Paris, France",0
-"221",1,1,"Ostby, Miss. Helene Ragnhild","female",22,0,1,"113509",61.9792,"B36","C","5",NA,"Providence, RI",0
-"222",1,0,"Ostby, Mr. Engelhart Cornelius","male",65,0,1,"113509",61.9792,"B30","C","None",234,"Providence, RI",0
-"223",1,0,"Ovies y Rodriguez, Mr. Servando","male",28.5,0,0,"PC 17562",27.7208,"D43","C","None",189,"?Havana, Cuba",0
+"221",1,1,"Ostby, Miss. Helene Ragnhild","female",22,0,1,"113509",61.9792,"B36","C","5",NA,"Providence, RI",1
+"222",1,0,"Ostby, Mr. Engelhart Cornelius","male",65,0,1,"113509",61.9792,"B30","C","None",234,"Providence, RI",1
+"223",1,0,"Ovies y Rodriguez, Mr. Servando","male",28.5,0,0,"PC 17562",27.7208,"D43","C","None",189,"?Havana, Cuba",1
 "224",1,0,"Parr, Mr. William Henry Marsh","male",29.8811345124283,0,0,"112052",0,"","S","None",NA,"Belfast",0
-"225",1,0,"Partner, Mr. Austen","male",45.5,0,0,"113043",28.5,"C124","S","None",166,"Surbiton Hill, Surrey",0
-"226",1,0,"Payne, Mr. Vivian Ponsonby","male",23,0,0,"12749",93.5,"B24","S","None",NA,"Montreal, PQ",0
-"227",1,0,"Pears, Mr. Thomas Clinton","male",29,1,0,"113776",66.6,"C2","S","None",NA,"Isleworth, England",0
-"228",1,1,"Pears, Mrs. Thomas (Edith Wearne)","female",22,1,0,"113776",66.6,"C2","S","8",NA,"Isleworth, England",0
-"229",1,0,"Penasco y Castellana, Mr. Victor de Satode","male",18,1,0,"PC 17758",108.9,"C65","C","None",NA,"Madrid, Spain",0
-"230",1,1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)","female",17,1,0,"PC 17758",108.9,"C65","C","8",NA,"Madrid, Spain",0
-"231",1,1,"Perreault, Miss. Anne","female",30,0,0,"12749",93.5,"B73","S","3",NA,"",0
-"232",1,1,"Peuchen, Major. Arthur Godfrey","male",52,0,0,"113786",30.5,"C104","S","6",NA,"Toronto, ON",0
-"233",1,0,"Porter, Mr. Walter Chamberlain","male",47,0,0,"110465",52,"C110","S","None",207,"Worcester, MA",0
-"234",1,1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)","female",56,0,1,"11767",83.1583,"C50","C","7",NA,"Mt Airy, Philadelphia, PA",0
+"225",1,0,"Partner, Mr. Austen","male",45.5,0,0,"113043",28.5,"C124","S","None",166,"Surbiton Hill, Surrey",1
+"226",1,0,"Payne, Mr. Vivian Ponsonby","male",23,0,0,"12749",93.5,"B24","S","None",NA,"Montreal, PQ",1
+"227",1,0,"Pears, Mr. Thomas Clinton","male",29,1,0,"113776",66.6,"C2","S","None",NA,"Isleworth, England",1
+"228",1,1,"Pears, Mrs. Thomas (Edith Wearne)","female",22,1,0,"113776",66.6,"C2","S","8",NA,"Isleworth, England",1
+"229",1,0,"Penasco y Castellana, Mr. Victor de Satode","male",18,1,0,"PC 17758",108.9,"C65","C","None",NA,"Madrid, Spain",1
+"230",1,1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)","female",17,1,0,"PC 17758",108.9,"C65","C","8",NA,"Madrid, Spain",1
+"231",1,1,"Perreault, Miss. Anne","female",30,0,0,"12749",93.5,"B73","S","3",NA,"",1
+"232",1,1,"Peuchen, Major. Arthur Godfrey","male",52,0,0,"113786",30.5,"C104","S","6",NA,"Toronto, ON",1
+"233",1,0,"Porter, Mr. Walter Chamberlain","male",47,0,0,"110465",52,"C110","S","None",207,"Worcester, MA",1
+"234",1,1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)","female",56,0,1,"11767",83.1583,"C50","C","7",NA,"Mt Airy, Philadelphia, PA",1
 "235",1,0,"Reuchlin, Jonkheer. John George","male",38,0,0,"19972",0,"","S","None",NA,"Rotterdam, Netherlands",0
 "236",1,1,"Rheims, Mr. George Alexander Lucien","male",29.8811345124283,0,0,"PC 17607",39.6,"","S","A",NA,"Paris /  New York, NY",0
 "237",1,0,"Ringhini, Mr. Sante","male",22,0,0,"PC 17760",135.6333,"","C","None",232,"",0
 "238",1,0,"Robbins, Mr. Victor","male",29.8811345124283,0,0,"PC 17757",227.525,"","C","None",NA,"",0
-"239",1,1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)","female",43,0,1,"24160",211.3375,"B3","S","2",NA,"St Louis, MO",0
-"240",1,0,"Roebling, Mr. Washington Augustus II","male",31,0,0,"PC 17590",50.4958,"A24","S","None",NA,"Trenton, NJ",0
+"239",1,1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)","female",43,0,1,"24160",211.3375,"B3","S","2",NA,"St Louis, MO",1
+"240",1,0,"Roebling, Mr. Washington Augustus II","male",31,0,0,"PC 17590",50.4958,"A24","S","None",NA,"Trenton, NJ",1
 "241",1,1,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")","male",45,0,0,"111428",26.55,"","S","9",NA,"New York, NY",0
-"242",1,0,"Rood, Mr. Hugh Roscoe","male",29.8811345124283,0,0,"113767",50,"A32","S","None",NA,"Seattle, WA",0
-"243",1,1,"Rosenbaum, Miss. Edith Louise","female",33,0,0,"PC 17613",27.7208,"A11","C","11",NA,"Paris, France",0
+"242",1,0,"Rood, Mr. Hugh Roscoe","male",29.8811345124283,0,0,"113767",50,"A32","S","None",NA,"Seattle, WA",1
+"243",1,1,"Rosenbaum, Miss. Edith Louise","female",33,0,0,"PC 17613",27.7208,"A11","C","11",NA,"Paris, France",1
 "244",1,0,"Rosenshine, Mr. George (""Mr George Thorne"")","male",46,0,0,"PC 17585",79.2,"","C","None",16,"New York, NY",0
-"245",1,0,"Ross, Mr. John Hugo","male",36,0,0,"13049",40.125,"A10","C","None",NA,"Winnipeg, MB",0
-"246",1,1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)","female",33,0,0,"110152",86.5,"B77","S","8",NA,"London  Vancouver, BC",0
+"245",1,0,"Ross, Mr. John Hugo","male",36,0,0,"13049",40.125,"A10","C","None",NA,"Winnipeg, MB",1
+"246",1,1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)","female",33,0,0,"110152",86.5,"B77","S","8",NA,"London  Vancouver, BC",1
 "247",1,0,"Rothschild, Mr. Martin","male",55,1,0,"PC 17603",59.4,"","C","None",NA,"New York, NY",0
 "248",1,1,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)","female",54,1,0,"PC 17603",59.4,"","C","6",NA,"New York, NY",0
 "249",1,0,"Rowe, Mr. Alfred G","male",33,0,0,"113790",26.55,"","S","None",109,"London",0
-"250",1,1,"Ryerson, Master. John Borie","male",13,2,2,"PC 17608",262.375,"B57 B59 B63 B66","C","4",NA,"Haverford, PA / Cooperstown, NY",0
-"251",1,1,"Ryerson, Miss. Emily Borie","female",18,2,2,"PC 17608",262.375,"B57 B59 B63 B66","C","4",NA,"Haverford, PA / Cooperstown, NY",0
-"252",1,1,"Ryerson, Miss. Susan Parker ""Suzette""","female",21,2,2,"PC 17608",262.375,"B57 B59 B63 B66","C","4",NA,"Haverford, PA / Cooperstown, NY",0
-"253",1,0,"Ryerson, Mr. Arthur Larned","male",61,1,3,"PC 17608",262.375,"B57 B59 B63 B66","C","None",NA,"Haverford, PA / Cooperstown, NY",0
-"254",1,1,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)","female",48,1,3,"PC 17608",262.375,"B57 B59 B63 B66","C","4",NA,"Haverford, PA / Cooperstown, NY",0
-"255",1,1,"Saalfeld, Mr. Adolphe","male",29.8811345124283,0,0,"19988",30.5,"C106","S","3",NA,"Manchester, England",0
-"256",1,1,"Sagesser, Mlle. Emma","female",24,0,0,"PC 17477",69.3,"B35","C","9",NA,"",0
+"250",1,1,"Ryerson, Master. John Borie","male",13,2,2,"PC 17608",262.375,"B57 B59 B63 B66","C","4",NA,"Haverford, PA / Cooperstown, NY",1
+"251",1,1,"Ryerson, Miss. Emily Borie","female",18,2,2,"PC 17608",262.375,"B57 B59 B63 B66","C","4",NA,"Haverford, PA / Cooperstown, NY",1
+"252",1,1,"Ryerson, Miss. Susan Parker ""Suzette""","female",21,2,2,"PC 17608",262.375,"B57 B59 B63 B66","C","4",NA,"Haverford, PA / Cooperstown, NY",1
+"253",1,0,"Ryerson, Mr. Arthur Larned","male",61,1,3,"PC 17608",262.375,"B57 B59 B63 B66","C","None",NA,"Haverford, PA / Cooperstown, NY",1
+"254",1,1,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)","female",48,1,3,"PC 17608",262.375,"B57 B59 B63 B66","C","4",NA,"Haverford, PA / Cooperstown, NY",1
+"255",1,1,"Saalfeld, Mr. Adolphe","male",29.8811345124283,0,0,"19988",30.5,"C106","S","3",NA,"Manchester, England",1
+"256",1,1,"Sagesser, Mlle. Emma","female",24,0,0,"PC 17477",69.3,"B35","C","9",NA,"",1
 "257",1,1,"Salomon, Mr. Abraham L","male",29.8811345124283,0,0,"111163",26,"","S","1",NA,"New York, NY",0
-"258",1,1,"Schabert, Mrs. Paul (Emma Mock)","female",35,1,0,"13236",57.75,"C28","C","11",NA,"New York, NY",0
+"258",1,1,"Schabert, Mrs. Paul (Emma Mock)","female",35,1,0,"13236",57.75,"C28","C","11",NA,"New York, NY",1
 "259",1,1,"Serepeca, Miss. Augusta","female",30,0,0,"113798",31,"","C","4",NA,"",0
 "260",1,1,"Seward, Mr. Frederic Kimber","male",34,0,0,"113794",26.55,"","S","7",NA,"New York, NY",0
-"261",1,1,"Shutes, Miss. Elizabeth W","female",40,0,0,"PC 17582",153.4625,"C125","S","3",NA,"New York, NY / Greenwich CT",0
-"262",1,1,"Silverthorne, Mr. Spencer Victor","male",35,0,0,"PC 17475",26.2875,"E24","S","5",NA,"St Louis, MO",0
-"263",1,0,"Silvey, Mr. William Baird","male",50,1,0,"13507",55.9,"E44","S","None",NA,"Duluth, MN",0
-"264",1,1,"Silvey, Mrs. William Baird (Alice Munger)","female",39,1,0,"13507",55.9,"E44","S","11",NA,"Duluth, MN",0
-"265",1,1,"Simonius-Blumer, Col. Oberst Alfons","male",56,0,0,"13213",35.5,"A26","C","3",NA,"Basel, Switzerland",0
-"266",1,1,"Sloper, Mr. William Thompson","male",28,0,0,"113788",35.5,"A6","S","7",NA,"New Britain, CT",0
+"261",1,1,"Shutes, Miss. Elizabeth W","female",40,0,0,"PC 17582",153.4625,"C125","S","3",NA,"New York, NY / Greenwich CT",1
+"262",1,1,"Silverthorne, Mr. Spencer Victor","male",35,0,0,"PC 17475",26.2875,"E24","S","5",NA,"St Louis, MO",1
+"263",1,0,"Silvey, Mr. William Baird","male",50,1,0,"13507",55.9,"E44","S","None",NA,"Duluth, MN",1
+"264",1,1,"Silvey, Mrs. William Baird (Alice Munger)","female",39,1,0,"13507",55.9,"E44","S","11",NA,"Duluth, MN",1
+"265",1,1,"Simonius-Blumer, Col. Oberst Alfons","male",56,0,0,"13213",35.5,"A26","C","3",NA,"Basel, Switzerland",1
+"266",1,1,"Sloper, Mr. William Thompson","male",28,0,0,"113788",35.5,"A6","S","7",NA,"New Britain, CT",1
 "267",1,0,"Smart, Mr. John Montgomery","male",56,0,0,"113792",26.55,"","S","None",NA,"New York, NY",0
-"268",1,0,"Smith, Mr. James Clinch","male",56,0,0,"17764",30.6958,"A7","C","None",NA,"St James, Long Island, NY",0
-"269",1,0,"Smith, Mr. Lucien Philip","male",24,1,0,"13695",60,"C31","S","None",NA,"Huntington, WV",0
-"270",1,0,"Smith, Mr. Richard William","male",29.8811345124283,0,0,"113056",26,"A19","S","None",NA,"Streatham, Surrey",0
-"271",1,1,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)","female",18,1,0,"13695",60,"C31","S","6",NA,"Huntington, WV",0
-"272",1,1,"Snyder, Mr. John Pillsbury","male",24,1,0,"21228",82.2667,"B45","S","7",NA,"Minneapolis, MN",0
-"273",1,1,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)","female",23,1,0,"21228",82.2667,"B45","S","7",NA,"Minneapolis, MN",0
-"274",1,1,"Spedden, Master. Robert Douglas","male",6,0,2,"16966",134.5,"E34","C","3",NA,"Tuxedo Park, NY",0
-"275",1,1,"Spedden, Mr. Frederic Oakley","male",45,1,1,"16966",134.5,"E34","C","3",NA,"Tuxedo Park, NY",0
-"276",1,1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)","female",40,1,1,"16966",134.5,"E34","C","3",NA,"Tuxedo Park, NY",0
-"277",1,0,"Spencer, Mr. William Augustus","male",57,1,0,"PC 17569",146.5208,"B78","C","None",NA,"Paris, France",0
-"278",1,1,"Spencer, Mrs. William Augustus (Marie Eugenie)","female",29.8811345124283,1,0,"PC 17569",146.5208,"B78","C","6",NA,"Paris, France",0
-"279",1,1,"Stahelin-Maeglin, Dr. Max","male",32,0,0,"13214",30.5,"B50","C","3",NA,"Basel, Switzerland",0
-"280",1,0,"Stead, Mr. William Thomas","male",62,0,0,"113514",26.55,"C87","S","None",NA,"Wimbledon Park, London / Hayling Island, Hants",0
-"281",1,1,"Stengel, Mr. Charles Emil Henry","male",54,1,0,"11778",55.4417,"C116","C","1",NA,"Newark, NJ",0
-"282",1,1,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)","female",43,1,0,"11778",55.4417,"C116","C","5",NA,"Newark, NJ",0
-"283",1,1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)","female",52,1,0,"36947",78.2667,"D20","C","4",NA,"Haverford, PA",0
+"268",1,0,"Smith, Mr. James Clinch","male",56,0,0,"17764",30.6958,"A7","C","None",NA,"St James, Long Island, NY",1
+"269",1,0,"Smith, Mr. Lucien Philip","male",24,1,0,"13695",60,"C31","S","None",NA,"Huntington, WV",1
+"270",1,0,"Smith, Mr. Richard William","male",29.8811345124283,0,0,"113056",26,"A19","S","None",NA,"Streatham, Surrey",1
+"271",1,1,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)","female",18,1,0,"13695",60,"C31","S","6",NA,"Huntington, WV",1
+"272",1,1,"Snyder, Mr. John Pillsbury","male",24,1,0,"21228",82.2667,"B45","S","7",NA,"Minneapolis, MN",1
+"273",1,1,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)","female",23,1,0,"21228",82.2667,"B45","S","7",NA,"Minneapolis, MN",1
+"274",1,1,"Spedden, Master. Robert Douglas","male",6,0,2,"16966",134.5,"E34","C","3",NA,"Tuxedo Park, NY",1
+"275",1,1,"Spedden, Mr. Frederic Oakley","male",45,1,1,"16966",134.5,"E34","C","3",NA,"Tuxedo Park, NY",1
+"276",1,1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)","female",40,1,1,"16966",134.5,"E34","C","3",NA,"Tuxedo Park, NY",1
+"277",1,0,"Spencer, Mr. William Augustus","male",57,1,0,"PC 17569",146.5208,"B78","C","None",NA,"Paris, France",1
+"278",1,1,"Spencer, Mrs. William Augustus (Marie Eugenie)","female",29.8811345124283,1,0,"PC 17569",146.5208,"B78","C","6",NA,"Paris, France",1
+"279",1,1,"Stahelin-Maeglin, Dr. Max","male",32,0,0,"13214",30.5,"B50","C","3",NA,"Basel, Switzerland",1
+"280",1,0,"Stead, Mr. William Thomas","male",62,0,0,"113514",26.55,"C87","S","None",NA,"Wimbledon Park, London / Hayling Island, Hants",1
+"281",1,1,"Stengel, Mr. Charles Emil Henry","male",54,1,0,"11778",55.4417,"C116","C","1",NA,"Newark, NJ",1
+"282",1,1,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)","female",43,1,0,"11778",55.4417,"C116","C","5",NA,"Newark, NJ",1
+"283",1,1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)","female",52,1,0,"36947",78.2667,"D20","C","4",NA,"Haverford, PA",1
 "284",1,0,"Stewart, Mr. Albert A","male",29.8811345124283,0,0,"PC 17605",27.7208,"","C","None",NA,"Gallipolis, Ohio / ? Paris / New York",0
-"285",1,1,"Stone, Mrs. George Nelson (Martha Evelyn)","female",62,0,0,"113572",80,"B28","S","6",NA,"Cincinatti, OH",0
-"286",1,0,"Straus, Mr. Isidor","male",67,1,0,"PC 17483",221.7792,"C55 C57","S","None",96,"New York, NY",0
-"287",1,0,"Straus, Mrs. Isidor (Rosalie Ida Blun)","female",63,1,0,"PC 17483",221.7792,"C55 C57","S","None",NA,"New York, NY",0
-"288",1,0,"Sutton, Mr. Frederick","male",61,0,0,"36963",32.3208,"D50","S","None",46,"Haddenfield, NJ",0
-"289",1,1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)","female",48,0,0,"17466",25.9292,"D17","S","8",NA,"Brooklyn, NY",0
-"290",1,1,"Taussig, Miss. Ruth","female",18,0,2,"110413",79.65,"E68","S","8",NA,"New York, NY",0
-"291",1,0,"Taussig, Mr. Emil","male",52,1,1,"110413",79.65,"E67","S","None",NA,"New York, NY",0
-"292",1,1,"Taussig, Mrs. Emil (Tillie Mandelbaum)","female",39,1,1,"110413",79.65,"E67","S","8",NA,"New York, NY",0
-"293",1,1,"Taylor, Mr. Elmer Zebley","male",48,1,0,"19996",52,"C126","S","5 7",NA,"London /  East Orange, NJ",0
-"294",1,1,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)","female",29.8811345124283,1,0,"19996",52,"C126","S","5 7",NA,"London /  East Orange, NJ",0
-"295",1,0,"Thayer, Mr. John Borland","male",49,1,1,"17421",110.8833,"C68","C","None",NA,"Haverford, PA",0
-"296",1,1,"Thayer, Mr. John Borland Jr","male",17,0,2,"17421",110.8833,"C70","C","B",NA,"Haverford, PA",0
-"297",1,1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)","female",39,1,1,"17421",110.8833,"C68","C","4",NA,"Haverford, PA",0
+"285",1,1,"Stone, Mrs. George Nelson (Martha Evelyn)","female",62,0,0,"113572",80,"B28","S","6",NA,"Cincinatti, OH",1
+"286",1,0,"Straus, Mr. Isidor","male",67,1,0,"PC 17483",221.7792,"C55 C57","S","None",96,"New York, NY",1
+"287",1,0,"Straus, Mrs. Isidor (Rosalie Ida Blun)","female",63,1,0,"PC 17483",221.7792,"C55 C57","S","None",NA,"New York, NY",1
+"288",1,0,"Sutton, Mr. Frederick","male",61,0,0,"36963",32.3208,"D50","S","None",46,"Haddenfield, NJ",1
+"289",1,1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)","female",48,0,0,"17466",25.9292,"D17","S","8",NA,"Brooklyn, NY",1
+"290",1,1,"Taussig, Miss. Ruth","female",18,0,2,"110413",79.65,"E68","S","8",NA,"New York, NY",1
+"291",1,0,"Taussig, Mr. Emil","male",52,1,1,"110413",79.65,"E67","S","None",NA,"New York, NY",1
+"292",1,1,"Taussig, Mrs. Emil (Tillie Mandelbaum)","female",39,1,1,"110413",79.65,"E67","S","8",NA,"New York, NY",1
+"293",1,1,"Taylor, Mr. Elmer Zebley","male",48,1,0,"19996",52,"C126","S","5 7",NA,"London /  East Orange, NJ",1
+"294",1,1,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)","female",29.8811345124283,1,0,"19996",52,"C126","S","5 7",NA,"London /  East Orange, NJ",1
+"295",1,0,"Thayer, Mr. John Borland","male",49,1,1,"17421",110.8833,"C68","C","None",NA,"Haverford, PA",1
+"296",1,1,"Thayer, Mr. John Borland Jr","male",17,0,2,"17421",110.8833,"C70","C","B",NA,"Haverford, PA",1
+"297",1,1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)","female",39,1,1,"17421",110.8833,"C68","C","4",NA,"Haverford, PA",1
 "298",1,1,"Thorne, Mrs. Gertrude Maybelle","female",29.8811345124283,0,0,"PC 17585",79.2,"","C","D",NA,"New York, NY",0
-"299",1,1,"Tucker, Mr. Gilbert Milligan Jr","male",31,0,0,"2543",28.5375,"C53","C","7",NA,"Albany, NY",0
+"299",1,1,"Tucker, Mr. Gilbert Milligan Jr","male",31,0,0,"2543",28.5375,"C53","C","7",NA,"Albany, NY",1
 "300",1,0,"Uruchurtu, Don. Manuel E","male",40,0,0,"PC 17601",27.7208,"","C","None",NA,"Mexico City, Mexico",0
-"301",1,0,"Van der hoef, Mr. Wyckoff","male",61,0,0,"111240",33.5,"B19","S","None",245,"Brooklyn, NY",0
-"302",1,0,"Walker, Mr. William Anderson","male",47,0,0,"36967",34.0208,"D46","S","None",NA,"East Orange, NJ",0
+"301",1,0,"Van der hoef, Mr. Wyckoff","male",61,0,0,"111240",33.5,"B19","S","None",245,"Brooklyn, NY",1
+"302",1,0,"Walker, Mr. William Anderson","male",47,0,0,"36967",34.0208,"D46","S","None",NA,"East Orange, NJ",1
 "303",1,1,"Ward, Miss. Anna","female",35,0,0,"PC 17755",512.3292,"","C","3",NA,"",0
-"304",1,0,"Warren, Mr. Frank Manley","male",64,1,0,"110813",75.25,"D37","C","None",NA,"Portland, OR",0
-"305",1,1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)","female",60,1,0,"110813",75.25,"D37","C","5",NA,"Portland, OR",0
+"304",1,0,"Warren, Mr. Frank Manley","male",64,1,0,"110813",75.25,"D37","C","None",NA,"Portland, OR",1
+"305",1,1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)","female",60,1,0,"110813",75.25,"D37","C","5",NA,"Portland, OR",1
 "306",1,0,"Weir, Col. John","male",60,0,0,"113800",26.55,"","S","None",NA,"England Salt Lake City, Utah",0
-"307",1,0,"White, Mr. Percival Wayland","male",54,0,1,"35281",77.2875,"D26","S","None",NA,"Brunswick, ME",0
-"308",1,0,"White, Mr. Richard Frasar","male",21,0,1,"35281",77.2875,"D26","S","None",169,"Brunswick, ME",0
-"309",1,1,"White, Mrs. John Stuart (Ella Holmes)","female",55,0,0,"PC 17760",135.6333,"C32","C","8",NA,"New York, NY / Briarcliff Manor NY",0
-"310",1,1,"Wick, Miss. Mary Natalie","female",31,0,2,"36928",164.8667,"C7","S","8",NA,"Youngstown, OH",0
+"307",1,0,"White, Mr. Percival Wayland","male",54,0,1,"35281",77.2875,"D26","S","None",NA,"Brunswick, ME",1
+"308",1,0,"White, Mr. Richard Frasar","male",21,0,1,"35281",77.2875,"D26","S","None",169,"Brunswick, ME",1
+"309",1,1,"White, Mrs. John Stuart (Ella Holmes)","female",55,0,0,"PC 17760",135.6333,"C32","C","8",NA,"New York, NY / Briarcliff Manor NY",1
+"310",1,1,"Wick, Miss. Mary Natalie","female",31,0,2,"36928",164.8667,"C7","S","8",NA,"Youngstown, OH",1
 "311",1,0,"Wick, Mr. George Dennick","male",57,1,1,"36928",164.8667,"","S","None",NA,"Youngstown, OH",0
 "312",1,1,"Wick, Mrs. George Dennick (Mary Hitchcock)","female",45,1,1,"36928",164.8667,"","S","8",NA,"Youngstown, OH",0
-"313",1,0,"Widener, Mr. George Dunton","male",50,1,1,"113503",211.5,"C80","C","None",NA,"Elkins Park, PA",0
-"314",1,0,"Widener, Mr. Harry Elkins","male",27,0,2,"113503",211.5,"C82","C","None",NA,"Elkins Park, PA",0
-"315",1,1,"Widener, Mrs. George Dunton (Eleanor Elkins)","female",50,1,1,"113503",211.5,"C80","C","4",NA,"Elkins Park, PA",0
+"313",1,0,"Widener, Mr. George Dunton","male",50,1,1,"113503",211.5,"C80","C","None",NA,"Elkins Park, PA",1
+"314",1,0,"Widener, Mr. Harry Elkins","male",27,0,2,"113503",211.5,"C82","C","None",NA,"Elkins Park, PA",1
+"315",1,1,"Widener, Mrs. George Dunton (Eleanor Elkins)","female",50,1,1,"113503",211.5,"C80","C","4",NA,"Elkins Park, PA",1
 "316",1,1,"Willard, Miss. Constance","female",21,0,0,"113795",26.55,"","S","8 10",NA,"Duluth, MN",0
 "317",1,0,"Williams, Mr. Charles Duane","male",51,0,1,"PC 17597",61.3792,"","C","None",NA,"Geneva, Switzerland / Radnor, PA",0
 "318",1,1,"Williams, Mr. Richard Norris II","male",21,0,1,"PC 17597",61.3792,"","C","A",NA,"Geneva, Switzerland / Radnor, PA",0
-"319",1,0,"Williams-Lambert, Mr. Fletcher Fellows","male",29.8811345124283,0,0,"113510",35,"C128","S","None",NA,"London, England",0
-"320",1,1,"Wilson, Miss. Helen Alice","female",31,0,0,"16966",134.5,"E39 E41","C","3",NA,"",0
-"321",1,1,"Woolner, Mr. Hugh","male",29.8811345124283,0,0,"19947",35.5,"C52","S","D",NA,"London, England",0
+"319",1,0,"Williams-Lambert, Mr. Fletcher Fellows","male",29.8811345124283,0,0,"113510",35,"C128","S","None",NA,"London, England",1
+"320",1,1,"Wilson, Miss. Helen Alice","female",31,0,0,"16966",134.5,"E39 E41","C","3",NA,"",1
+"321",1,1,"Woolner, Mr. Hugh","male",29.8811345124283,0,0,"19947",35.5,"C52","S","D",NA,"London, England",1
 "322",1,0,"Wright, Mr. George","male",62,0,0,"113807",26.55,"","S","None",NA,"Halifax, NS",0
-"323",1,1,"Young, Miss. Marie Grice","female",36,0,0,"PC 17760",135.6333,"C32","C","8",NA,"New York, NY / Washington, DC",0
+"323",1,1,"Young, Miss. Marie Grice","female",36,0,0,"PC 17760",135.6333,"C32","C","8",NA,"New York, NY / Washington, DC",1
 "324",2,0,"Abelson, Mr. Samuel","male",30,1,0,"P/PP 3381",24,"","C","None",NA,"Russia New York, NY",0
 "325",2,1,"Abelson, Mrs. Samuel (Hannah Wizosky)","female",28,1,0,"P/PP 3381",24,"","C","10",NA,"Russia New York, NY",0
 "326",2,0,"Aldworth, Mr. Charles Augustus","male",30,0,0,"248744",13,"","S","None",NA,"Bryn Mawr, PA, USA",0
@@ -332,23 +332,23 @@
 "331",2,0,"Ashby, Mr. John","male",57,0,0,"244346",13,"","S","None",NA,"West Hoboken, NJ",0
 "332",2,0,"Bailey, Mr. Percy Andrew","male",18,0,0,"29108",11.5,"","S","None",NA,"Penzance, Cornwall / Akron, OH",0
 "333",2,0,"Baimbrigge, Mr. Charles Robert","male",23,0,0,"C.A. 31030",10.5,"","S","None",NA,"Guernsey",0
-"334",2,1,"Ball, Mrs. (Ada E Hall)","female",36,0,0,"28551",13,"D","S","10",NA,"Bristol, Avon / Jacksonville, FL",0
+"334",2,1,"Ball, Mrs. (Ada E Hall)","female",36,0,0,"28551",13,"D","S","10",NA,"Bristol, Avon / Jacksonville, FL",1
 "335",2,0,"Banfield, Mr. Frederick James","male",28,0,0,"C.A./SOTON 34068",10.5,"","S","None",NA,"Plymouth, Dorset / Houghton, MI",0
 "336",2,0,"Bateman, Rev. Robert James","male",51,0,0,"S.O.P. 1166",12.525,"","S","None",174,"Jacksonville, FL",0
 "337",2,1,"Beane, Mr. Edward","male",32,1,0,"2908",26,"","S","13",NA,"Norwich / New York, NY",0
 "338",2,1,"Beane, Mrs. Edward (Ethel Clarke)","female",19,1,0,"2908",26,"","S","13",NA,"Norwich / New York, NY",0
 "339",2,0,"Beauchamp, Mr. Henry James","male",28,0,0,"244358",26,"","S","None",NA,"England",0
-"340",2,1,"Becker, Master. Richard F","male",1,2,1,"230136",39,"F4","S","11",NA,"Guntur, India / Benton Harbour, MI",0
-"341",2,1,"Becker, Miss. Marion Louise","female",4,2,1,"230136",39,"F4","S","11",NA,"Guntur, India / Benton Harbour, MI",0
-"342",2,1,"Becker, Miss. Ruth Elizabeth","female",12,2,1,"230136",39,"F4","S","13",NA,"Guntur, India / Benton Harbour, MI",0
-"343",2,1,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)","female",36,0,3,"230136",39,"F4","S","11",NA,"Guntur, India / Benton Harbour, MI",0
-"344",2,1,"Beesley, Mr. Lawrence","male",34,0,0,"248698",13,"D56","S","13",NA,"London",0
+"340",2,1,"Becker, Master. Richard F","male",1,2,1,"230136",39,"F4","S","11",NA,"Guntur, India / Benton Harbour, MI",1
+"341",2,1,"Becker, Miss. Marion Louise","female",4,2,1,"230136",39,"F4","S","11",NA,"Guntur, India / Benton Harbour, MI",1
+"342",2,1,"Becker, Miss. Ruth Elizabeth","female",12,2,1,"230136",39,"F4","S","13",NA,"Guntur, India / Benton Harbour, MI",1
+"343",2,1,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)","female",36,0,3,"230136",39,"F4","S","11",NA,"Guntur, India / Benton Harbour, MI",1
+"344",2,1,"Beesley, Mr. Lawrence","male",34,0,0,"248698",13,"D56","S","13",NA,"London",1
 "345",2,1,"Bentham, Miss. Lilian W","female",19,0,0,"28404",13,"","S","12",NA,"Rochester, NY",0
 "346",2,0,"Berriman, Mr. William John","male",23,0,0,"28425",13,"","S","None",NA,"St Ives, Cornwall / Calumet, MI",0
 "347",2,0,"Botsford, Mr. William Hull","male",26,0,0,"237670",13,"","S","None",NA,"Elmira, NY / Orange, NJ",0
 "348",2,0,"Bowenur, Mr. Solomon","male",42,0,0,"211535",13,"","S","None",NA,"London",0
 "349",2,0,"Bracken, Mr. James H","male",27,0,0,"220367",13,"","S","None",NA,"Lake Arthur, Chavez County, NM",0
-"350",2,1,"Brown, Miss. Amelia ""Mildred""","female",24,0,0,"248733",13,"F33","S","11",NA,"London / Montreal, PQ",0
+"350",2,1,"Brown, Miss. Amelia ""Mildred""","female",24,0,0,"248733",13,"F33","S","11",NA,"London / Montreal, PQ",1
 "351",2,1,"Brown, Miss. Edith Eileen","female",15,0,2,"29750",39,"","S","14",NA,"Cape Town, South Africa / Seattle, WA",0
 "352",2,0,"Brown, Mr. Thomas William Solomon","male",60,1,1,"29750",39,"","S","None",NA,"Cape Town, South Africa / Seattle, WA",0
 "353",2,1,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)","female",40,1,1,"29750",39,"","S","14",NA,"Cape Town, South Africa / Seattle, WA",0
@@ -379,7 +379,7 @@
 "378",2,1,"Collyer, Miss. Marjorie ""Lottie""","female",8,0,2,"C.A. 31921",26.25,"","S","14",NA,"Bishopstoke, Hants / Fayette Valley, ID",0
 "379",2,0,"Collyer, Mr. Harvey","male",31,1,1,"C.A. 31921",26.25,"","S","None",NA,"Bishopstoke, Hants / Fayette Valley, ID",0
 "380",2,1,"Collyer, Mrs. Harvey (Charlotte Annie Tate)","female",31,1,1,"C.A. 31921",26.25,"","S","14",NA,"Bishopstoke, Hants / Fayette Valley, ID",0
-"381",2,1,"Cook, Mrs. (Selena Rogers)","female",22,0,0,"W./C. 14266",10.5,"F33","S","14",NA,"Pennsylvania",0
+"381",2,1,"Cook, Mrs. (Selena Rogers)","female",22,0,0,"W./C. 14266",10.5,"F33","S","14",NA,"Pennsylvania",1
 "382",2,0,"Corbett, Mrs. Walter H (Irene Colvin)","female",30,0,0,"237249",13,"","S","None",NA,"Provo, UT",0
 "383",2,0,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)","female",29.8811345124283,0,0,"F.C.C. 13534",21,"","S","None",NA,"Upper Burma, India Pittsburgh, PA",0
 "384",2,0,"Cotterill, Mr. Henry ""Harry""","male",21,0,0,"29107",11.5,"","S","None",NA,"Penzance, Cornwall / Akron, OH",0
@@ -464,11 +464,11 @@
 "463",2,0,"Jefferys, Mr. Clifford Thomas","male",24,2,0,"C.A. 31029",31.5,"","S","None",NA,"Guernsey / Elizabeth, NJ",0
 "464",2,0,"Jefferys, Mr. Ernest Wilfred","male",22,2,0,"C.A. 31029",31.5,"","S","None",NA,"Guernsey / Elizabeth, NJ",0
 "465",2,0,"Jenkin, Mr. Stephen Curnow","male",32,0,0,"C.A. 33111",10.5,"","S","None",NA,"St Ives, Cornwall / Houghton, MI",0
-"466",2,1,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)","female",23,0,0,"SC/AH Basle 541",13.7917,"D","C","11",NA,"New York, NY",0
+"466",2,1,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)","female",23,0,0,"SC/AH Basle 541",13.7917,"D","C","11",NA,"New York, NY",1
 "467",2,0,"Kantor, Mr. Sinai","male",34,1,0,"244367",26,"","S","None",283,"Moscow / Bronx, NY",0
 "468",2,1,"Kantor, Mrs. Sinai (Miriam Sternin)","female",24,1,0,"244367",26,"","S","12",NA,"Moscow / Bronx, NY",0
 "469",2,0,"Karnes, Mrs. J Frank (Claire Bennett)","female",22,0,0,"F.C.C. 13534",21,"","S","None",NA,"India / Pittsburgh, PA",0
-"470",2,1,"Keane, Miss. Nora A","female",29.8811345124283,0,0,"226593",12.35,"E101","Q","10",NA,"Harrisburg, PA",0
+"470",2,1,"Keane, Miss. Nora A","female",29.8811345124283,0,0,"226593",12.35,"E101","Q","10",NA,"Harrisburg, PA",1
 "471",2,0,"Keane, Mr. Daniel","male",35,0,0,"233734",12.35,"","Q","None",NA,"",0
 "472",2,1,"Kelly, Mrs. Florence ""Fannie""","female",45,0,0,"223596",13.5,"","S","9",NA,"London / New York, NY",0
 "473",2,0,"Kirkland, Rev. Charles Leonard","male",57,0,0,"219533",12.35,"","Q","None",NA,"Glasgow / Bangor, ME",0
@@ -483,14 +483,14 @@
 "482",2,1,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)","female",22,1,2,"SC/Paris 2123",41.5792,"","C","14",NA,"Paris / Haiti",0
 "483",2,1,"Lehmann, Miss. Bertha","female",17,0,0,"SC 1748",12,"","C","12",NA,"Berne, Switzerland / Central City, IA",0
 "484",2,1,"Leitch, Miss. Jessie Wills","female",29.8811345124283,0,0,"248727",33,"","S","11",NA,"London / Chicago, IL",0
-"485",2,1,"Lemore, Mrs. (Amelia Milley)","female",34,0,0,"C.A. 34260",10.5,"F33","S","14",NA,"Chicago, IL",0
-"486",2,0,"Levy, Mr. Rene Jacques","male",36,0,0,"SC/Paris 2163",12.875,"D","C","None",NA,"Montreal, PQ",0
+"485",2,1,"Lemore, Mrs. (Amelia Milley)","female",34,0,0,"C.A. 34260",10.5,"F33","S","14",NA,"Chicago, IL",1
+"486",2,0,"Levy, Mr. Rene Jacques","male",36,0,0,"SC/Paris 2163",12.875,"D","C","None",NA,"Montreal, PQ",1
 "487",2,0,"Leyson, Mr. Robert William Norman","male",24,0,0,"C.A. 29566",10.5,"","S","None",108,"",0
 "488",2,0,"Lingane, Mr. John","male",61,0,0,"235509",12.35,"","Q","None",NA,"",0
 "489",2,0,"Louch, Mr. Charles Alexander","male",50,1,0,"SC/AH 3085",26,"","S","None",121,"Weston-Super-Mare, Somerset",0
 "490",2,1,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)","female",42,1,0,"SC/AH 3085",26,"","S","None",NA,"Weston-Super-Mare, Somerset",0
-"491",2,0,"Mack, Mrs. (Mary)","female",57,0,0,"S.O./P.P. 3",10.5,"E77","S","None",52,"Southampton / New York, NY",0
-"492",2,0,"Malachard, Mr. Noel","male",29.8811345124283,0,0,"237735",15.0458,"D","C","None",NA,"Paris",0
+"491",2,0,"Mack, Mrs. (Mary)","female",57,0,0,"S.O./P.P. 3",10.5,"E77","S","None",52,"Southampton / New York, NY",1
+"492",2,0,"Malachard, Mr. Noel","male",29.8811345124283,0,0,"237735",15.0458,"D","C","None",NA,"Paris",1
 "493",2,1,"Mallet, Master. Andre","male",1,0,2,"S.C./PARIS 2079",37.0042,"","C","10",NA,"Paris / Montreal, PQ",0
 "494",2,0,"Mallet, Mr. Albert","male",31,1,1,"S.C./PARIS 2079",37.0042,"","C","None",NA,"Paris / Montreal, PQ",0
 "495",2,1,"Mallet, Mrs. Albert (Antoinette Magnin)","female",24,1,1,"S.C./PARIS 2079",37.0042,"","C","10",NA,"Paris / Montreal, PQ",0
@@ -513,14 +513,14 @@
 "512",2,0,"Myles, Mr. Thomas Francis","male",62,0,0,"240276",9.6875,"","Q","None",NA,"Cambridge, MA",0
 "513",2,0,"Nasser, Mr. Nicholas","male",32.5,1,0,"237736",30.0708,"","C","None",43,"New York, NY",0
 "514",2,1,"Nasser, Mrs. Nicholas (Adele Achem)","female",14,1,0,"237736",30.0708,"","C","None",NA,"New York, NY",0
-"515",2,1,"Navratil, Master. Edmond Roger","male",2,1,1,"230080",26,"F2","S","D",NA,"Nice, France",0
-"516",2,1,"Navratil, Master. Michel M","male",3,1,1,"230080",26,"F2","S","D",NA,"Nice, France",0
-"517",2,0,"Navratil, Mr. Michel (""Louis M Hoffman"")","male",36.5,0,2,"230080",26,"F2","S","None",15,"Nice, France",0
-"518",2,0,"Nesson, Mr. Israel","male",26,0,0,"244368",13,"F2","S","None",NA,"Boston, MA",0
+"515",2,1,"Navratil, Master. Edmond Roger","male",2,1,1,"230080",26,"F2","S","D",NA,"Nice, France",1
+"516",2,1,"Navratil, Master. Michel M","male",3,1,1,"230080",26,"F2","S","D",NA,"Nice, France",1
+"517",2,0,"Navratil, Mr. Michel (""Louis M Hoffman"")","male",36.5,0,2,"230080",26,"F2","S","None",15,"Nice, France",1
+"518",2,0,"Nesson, Mr. Israel","male",26,0,0,"244368",13,"F2","S","None",NA,"Boston, MA",1
 "519",2,0,"Nicholls, Mr. Joseph Charles","male",19,1,1,"C.A. 33112",36.75,"","S","None",101,"Cornwall / Hancock, MI",0
 "520",2,0,"Norman, Mr. Robert Douglas","male",28,0,0,"218629",13.5,"","S","None",287,"Glasgow",0
-"521",2,1,"Nourney, Mr. Alfred (""Baron von Drachstedt"")","male",20,0,0,"SC/PARIS 2166",13.8625,"D38","C","7",NA,"Cologne, Germany",0
-"522",2,1,"Nye, Mrs. (Elizabeth Ramell)","female",29,0,0,"C.A. 29395",10.5,"F33","S","11",NA,"Folkstone, Kent / New York, NY",0
+"521",2,1,"Nourney, Mr. Alfred (""Baron von Drachstedt"")","male",20,0,0,"SC/PARIS 2166",13.8625,"D38","C","7",NA,"Cologne, Germany",1
+"522",2,1,"Nye, Mrs. (Elizabeth Ramell)","female",29,0,0,"C.A. 29395",10.5,"F33","S","11",NA,"Folkstone, Kent / New York, NY",1
 "523",2,0,"Otter, Mr. Richard","male",39,0,0,"28213",13,"","S","None",NA,"Middleburg Heights, OH",0
 "524",2,1,"Oxenham, Mr. Percy Thomas","male",22,0,0,"W./C. 14260",10.5,"","S","13",NA,"Pondersend, England / New Durham, NJ",0
 "525",2,1,"Padro y Manent, Mr. Julian","male",29.8811345124283,0,0,"SC/PARIS 2146",13.8625,"","C","9",NA,"Spain / Havana, Cuba",0
@@ -567,12 +567,12 @@
 "566",2,0,"Sobey, Mr. Samuel James Hayden","male",25,0,0,"C.A. 29178",13,"","S","None",NA,"Cornwall / Houghton, MI",0
 "567",2,0,"Stanton, Mr. Samuel Ward","male",41,0,0,"237734",15.0458,"","C","None",NA,"New York, NY",0
 "568",2,0,"Stokes, Mr. Philip Joseph","male",25,0,0,"F.C.C. 13540",10.5,"","S","None",81,"Catford, Kent / Detroit, MI",0
-"569",2,0,"Swane, Mr. George","male",18.5,0,0,"248734",13,"F","S","None",294,"",0
+"569",2,0,"Swane, Mr. George","male",18.5,0,0,"248734",13,"F","S","None",294,"",1
 "570",2,0,"Sweet, Mr. George Frederick","male",14,0,0,"220845",65,"","S","None",NA,"Somerset / Bernardsville, NJ",0
 "571",2,1,"Toomey, Miss. Ellen","female",50,0,0,"F.C.C. 13531",10.5,"","S","9",NA,"Indianapolis, IN",0
 "572",2,0,"Troupiansky, Mr. Moses Aaron","male",23,0,0,"233639",13,"","S","None",NA,"",0
 "573",2,1,"Trout, Mrs. William H (Jessie L)","female",28,0,0,"240929",12.65,"","S","None",NA,"Columbus, OH",0
-"574",2,1,"Troutt, Miss. Edwina Celia ""Winnie""","female",27,0,0,"34218",10.5,"E101","S","16",NA,"Bath, England / Massachusetts",0
+"574",2,1,"Troutt, Miss. Edwina Celia ""Winnie""","female",27,0,0,"34218",10.5,"E101","S","16",NA,"Bath, England / Massachusetts",1
 "575",2,0,"Turpin, Mr. William John Robert","male",29,1,0,"11668",21,"","S","None",NA,"Plymouth, England",0
 "576",2,0,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)","female",27,1,0,"11668",21,"","S","None",NA,"Plymouth, England",0
 "577",2,0,"Veal, Mr. James","male",40,0,0,"28221",13,"","S","None",NA,"Barre, Co Washington, VT",0
@@ -583,7 +583,7 @@
 "582",2,0,"Watson, Mr. Ennis Hastings","male",29.8811345124283,0,0,"239856",0,"","S","None",NA,"Belfast",0
 "583",2,1,"Watt, Miss. Bertha J","female",12,0,0,"C.A. 33595",15.75,"","S","9",NA,"Aberdeen / Portland, OR",0
 "584",2,1,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)","female",40,0,0,"C.A. 33595",15.75,"","S","9",NA,"Aberdeen / Portland, OR",0
-"585",2,1,"Webber, Miss. Susan","female",32.5,0,0,"27267",13,"E101","S","12",NA,"England / Hartford, CT",0
+"585",2,1,"Webber, Miss. Susan","female",32.5,0,0,"27267",13,"E101","S","12",NA,"England / Hartford, CT",1
 "586",2,0,"Weisz, Mr. Leopold","male",27,1,0,"228414",26,"","S","None",293,"Bromsgrove, England / Montreal, PQ",0
 "587",2,1,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)","female",29,1,0,"228414",26,"","S","10",NA,"Bromsgrove, England / Montreal, PQ",0
 "588",2,1,"Wells, Master. Ralph Lester","male",2,1,1,"29103",23,"","S","14",NA,"Cornwall / Akron, OH",0
@@ -604,7 +604,7 @@
 "603",3,0,"Abbott, Mr. Rossmore Edward","male",16,1,1,"C.A. 2673",20.25,"","S","None",190,"East Providence, RI",0
 "604",3,1,"Abbott, Mrs. Stanton (Rosa Hunt)","female",35,1,1,"C.A. 2673",20.25,"","S","A",NA,"East Providence, RI",0
 "605",3,1,"Abelseth, Miss. Karen Marie","female",16,0,0,"348125",7.65,"","S","16",NA,"Norway Los Angeles, CA",0
-"606",3,1,"Abelseth, Mr. Olaus Jorgensen","male",25,0,0,"348122",7.65,"F G63","S","A",NA,"Perkins County, SD",0
+"606",3,1,"Abelseth, Mr. Olaus Jorgensen","male",25,0,0,"348122",7.65,"F G63","S","A",NA,"Perkins County, SD",1
 "607",3,1,"Abrahamsson, Mr. Abraham August Johannes","male",20,0,0,"SOTON/O2 3101284",7.925,"","S","15",NA,"Taalintehdas, Finland Hoboken, NJ",0
 "608",3,1,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)","female",18,0,0,"2657",7.2292,"","C","C",NA,"Greensburg, PA",0
 "609",3,0,"Adahl, Mr. Mauritz Nils Martin","male",30,0,0,"C 7076",7.25,"","S","None",72,"Asarum, Sweden Brooklyn, NY",0
@@ -872,7 +872,7 @@
 "871",3,1,"Honkanen, Miss. Eliina","female",27,0,0,"STON/O2. 3101283",7.925,"","S","None",NA,"",0
 "872",3,0,"Horgan, Mr. John","male",29.8811345124283,0,0,"370377",7.75,"","Q","None",NA,"",0
 "873",3,1,"Howard, Miss. May Elizabeth","female",29.8811345124283,0,0,"A. 2. 39186",8.05,"","S","C",NA,"",0
-"874",3,0,"Humblen, Mr. Adolf Mathias Nicolai Olsen","male",42,0,0,"348121",7.65,"F G63","S","None",120,"",0
+"874",3,0,"Humblen, Mr. Adolf Mathias Nicolai Olsen","male",42,0,0,"348121",7.65,"F G63","S","None",120,"",1
 "875",3,1,"Hyman, Mr. Abraham","male",29.8811345124283,0,0,"3470",7.8875,"","S","C",NA,"",0
 "876",3,0,"Ibrahim Shawah, Mr. Yousseff","male",30,0,0,"2685",7.2292,"","C","None",NA,"",0
 "877",3,0,"Ilieff, Mr. Ylio","male",29.8811345124283,0,0,"349220",7.8958,"","S","None",NA,"",0
@@ -940,7 +940,7 @@
 "939",3,0,"Klasen, Mr. Klas Albin","male",18,1,1,"350404",7.8542,"","S","None",NA,"",0
 "940",3,0,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)","female",36,0,2,"350405",12.1833,"","S","None",NA,"",0
 "941",3,0,"Kraeff, Mr. Theodor","male",29.8811345124283,0,0,"349253",7.8958,"","C","None",NA,"",0
-"942",3,1,"Krekorian, Mr. Neshan","male",25,0,0,"2654",7.2292,"F E57","C","10",NA,"",0
+"942",3,1,"Krekorian, Mr. Neshan","male",25,0,0,"2654",7.2292,"F E57","C","10",NA,"",1
 "943",3,0,"Lahoud, Mr. Sarkis","male",29.8811345124283,0,0,"2624",7.225,"","C","None",NA,"",0
 "944",3,0,"Laitinen, Miss. Kristina Sofia","female",37,0,0,"4135",9.5875,"","S","None",NA,"",0
 "945",3,0,"Laleff, Mr. Kristo","male",29.8811345124283,0,0,"349217",7.8958,"","S","None",NA,"",0
@@ -993,7 +993,7 @@
 "992",3,1,"Mamee, Mr. Hanna","male",29.8811345124283,0,0,"2677",7.2292,"","C","15",NA,"",0
 "993",3,0,"Mangan, Miss. Mary","female",30.5,0,0,"364850",7.75,"","Q","None",61,"",0
 "994",3,1,"Mannion, Miss. Margareth","female",29.8811345124283,0,0,"36866",7.7375,"","Q","16",NA,"",0
-"995",3,0,"Mardirosian, Mr. Sarkis","male",29.8811345124283,0,0,"2655",7.2292,"F E46","C","None",NA,"",0
+"995",3,0,"Mardirosian, Mr. Sarkis","male",29.8811345124283,0,0,"2655",7.2292,"F E46","C","None",NA,"",1
 "996",3,0,"Markoff, Mr. Marin","male",35,0,0,"349213",7.8958,"","C","None",NA,"",0
 "997",3,0,"Markun, Mr. Johann","male",33,0,0,"349257",7.8958,"","S","None",NA,"",0
 "998",3,1,"Masselmani, Mrs. Fatima","female",29.8811345124283,0,0,"2649",7.225,"","C","C",NA,"",0
@@ -1023,9 +1023,9 @@
 "1022",3,0,"Mionoff, Mr. Stoytcho","male",28,0,0,"349207",7.8958,"","S","None",NA,"",0
 "1023",3,0,"Mitkoff, Mr. Mito","male",29.8811345124283,0,0,"349221",7.8958,"","S","None",NA,"",0
 "1024",3,1,"Mockler, Miss. Helen Mary ""Ellie""","female",29.8811345124283,0,0,"330980",7.8792,"","Q","16",NA,"",0
-"1025",3,0,"Moen, Mr. Sigurd Hansen","male",25,0,0,"348123",7.65,"F G73","S","None",309,"",0
-"1026",3,1,"Moor, Master. Meier","male",6,0,1,"392096",12.475,"E121","S","14",NA,"",0
-"1027",3,1,"Moor, Mrs. (Beila)","female",27,0,1,"392096",12.475,"E121","S","14",NA,"",0
+"1025",3,0,"Moen, Mr. Sigurd Hansen","male",25,0,0,"348123",7.65,"F G73","S","None",309,"",1
+"1026",3,1,"Moor, Master. Meier","male",6,0,1,"392096",12.475,"E121","S","14",NA,"",1
+"1027",3,1,"Moor, Mrs. (Beila)","female",27,0,1,"392096",12.475,"E121","S","14",NA,"",1
 "1028",3,0,"Moore, Mr. Leonard Charles","male",29.8811345124283,0,0,"A4. 54510",8.05,"","S","None",NA,"",0
 "1029",3,1,"Moran, Miss. Bertha","female",29.8811345124283,1,0,"371110",24.15,"","Q","16",NA,"",0
 "1030",3,0,"Moran, Mr. Daniel J","male",29.8811345124283,1,0,"371110",24.15,"","Q","None",NA,"",0
@@ -1121,7 +1121,7 @@
 "1120",3,0,"Perkin, Mr. John Henry","male",22,0,0,"A/5 21174",7.25,"","S","None",NA,"",0
 "1121",3,1,"Persson, Mr. Ernst Ulrik","male",25,1,0,"347083",7.775,"","S","15",NA,"",0
 "1122",3,1,"Peter, Master. Michael J","male",29.8811345124283,1,1,"2668",22.3583,"","C","C",NA,"",0
-"1123",3,1,"Peter, Miss. Anna","female",29.8811345124283,1,1,"2668",22.3583,"F E69","C","D",NA,"",0
+"1123",3,1,"Peter, Miss. Anna","female",29.8811345124283,1,1,"2668",22.3583,"F E69","C","D",NA,"",1
 "1124",3,1,"Peter, Mrs. Catherine (Catherine Rizk)","female",29.8811345124283,0,2,"2668",22.3583,"","C","D",NA,"",0
 "1125",3,0,"Peters, Miss. Katie","female",29.8811345124283,0,0,"330935",8.1375,"","Q","None",NA,"",0
 "1126",3,0,"Petersen, Mr. Marius","male",24,0,0,"342441",8.05,"","S","None",NA,"",0
@@ -1130,7 +1130,7 @@
 "1129",3,0,"Petroff, Mr. Pastcho (""Pentcho"")","male",29.8811345124283,0,0,"349215",7.8958,"","S","None",NA,"",0
 "1130",3,0,"Petterson, Mr. Johan Emil","male",25,1,0,"347076",7.775,"","S","None",NA,"",0
 "1131",3,0,"Pettersson, Miss. Ellen Natalia","female",18,0,0,"347087",7.775,"","S","None",NA,"",0
-"1132",3,1,"Pickard, Mr. Berk (Berk Trembisky)","male",32,0,0,"SOTON/O.Q. 392078",8.05,"E10","S","9",NA,"",0
+"1132",3,1,"Pickard, Mr. Berk (Berk Trembisky)","male",32,0,0,"SOTON/O.Q. 392078",8.05,"E10","S","9",NA,"",1
 "1133",3,0,"Plotcharsky, Mr. Vasil","male",29.8811345124283,0,0,"349227",7.8958,"","S","None",NA,"",0
 "1134",3,0,"Pokrnic, Mr. Mate","male",17,0,0,"315095",8.6625,"","S","None",NA,"",0
 "1135",3,0,"Pokrnic, Mr. Tome","male",24,0,0,"315092",8.6625,"","S","None",NA,"",0
@@ -1186,9 +1186,9 @@
 "1185",3,0,"Samaan, Mr. Elias","male",29.8811345124283,2,0,"2662",21.6792,"","C","None",NA,"",0
 "1186",3,0,"Samaan, Mr. Hanna","male",29.8811345124283,2,0,"2662",21.6792,"","C","None",NA,"",0
 "1187",3,0,"Samaan, Mr. Youssef","male",29.8811345124283,2,0,"2662",21.6792,"","C","None",NA,"",0
-"1188",3,1,"Sandstrom, Miss. Beatrice Irene","female",1,1,1,"PP 9549",16.7,"G6","S","13",NA,"",0
-"1189",3,1,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)","female",24,0,2,"PP 9549",16.7,"G6","S","13",NA,"",0
-"1190",3,1,"Sandstrom, Miss. Marguerite Rut","female",4,1,1,"PP 9549",16.7,"G6","S","13",NA,"",0
+"1188",3,1,"Sandstrom, Miss. Beatrice Irene","female",1,1,1,"PP 9549",16.7,"G6","S","13",NA,"",1
+"1189",3,1,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)","female",24,0,2,"PP 9549",16.7,"G6","S","13",NA,"",1
+"1190",3,1,"Sandstrom, Miss. Marguerite Rut","female",4,1,1,"PP 9549",16.7,"G6","S","13",NA,"",1
 "1191",3,1,"Sap, Mr. Julius","male",25,0,0,"345768",9.5,"","S","11",NA,"",0
 "1192",3,0,"Saundercock, Mr. William Henry","male",20,0,0,"A/5. 2151",8.05,"","S","None",NA,"",0
 "1193",3,0,"Sawyer, Mr. Frederick Charles","male",24.5,0,0,"342826",8.05,"","S","None",284,"",0
@@ -1216,7 +1216,7 @@
 "1215",3,0,"Smiljanic, Mr. Mile","male",29.8811345124283,0,0,"315037",8.6625,"","S","None",NA,"",0
 "1216",3,0,"Smith, Mr. Thomas","male",29.8811345124283,0,0,"384461",7.75,"","Q","None",NA,"",0
 "1217",3,1,"Smyth, Miss. Julia","female",29.8811345124283,0,0,"335432",7.7333,"","Q","13",NA,"",0
-"1218",3,0,"Soholt, Mr. Peter Andreas Lauritz Andersen","male",19,0,0,"348124",7.65,"F G73","S","None",NA,"",0
+"1218",3,0,"Soholt, Mr. Peter Andreas Lauritz Andersen","male",19,0,0,"348124",7.65,"F G73","S","None",NA,"",1
 "1219",3,0,"Somerton, Mr. Francis William","male",30,0,0,"A.5. 18509",8.05,"","S","None",NA,"",0
 "1220",3,0,"Spector, Mr. Woolf","male",29.8811345124283,0,0,"A.5. 3236",8.05,"","S","None",NA,"",0
 "1221",3,0,"Spinner, Mr. Henry John","male",32,0,0,"STON/OQ. 369943",8.05,"","S","None",NA,"",0
@@ -1229,8 +1229,8 @@
 "1228",3,0,"Strandberg, Miss. Ida Sofia","female",22,0,0,"7553",9.8375,"","S","None",NA,"",0
 "1229",3,1,"Stranden, Mr. Juho","male",31,0,0,"STON/O 2. 3101288",7.925,"","S","9",NA,"",0
 "1230",3,0,"Strilic, Mr. Ivan","male",27,0,0,"315083",8.6625,"","S","None",NA,"",0
-"1231",3,0,"Strom, Miss. Telma Matilda","female",2,0,1,"347054",10.4625,"G6","S","None",NA,"",0
-"1232",3,0,"Strom, Mrs. Wilhelm (Elna Matilda Persson)","female",29,1,1,"347054",10.4625,"G6","S","None",NA,"",0
+"1231",3,0,"Strom, Miss. Telma Matilda","female",2,0,1,"347054",10.4625,"G6","S","None",NA,"",1
+"1232",3,0,"Strom, Mrs. Wilhelm (Elna Matilda Persson)","female",29,1,1,"347054",10.4625,"G6","S","None",NA,"",1
 "1233",3,1,"Sunderland, Mr. Victor Francis","male",16,0,0,"SOTON/OQ 392089",8.05,"","S","B",NA,"",0
 "1234",3,1,"Sundman, Mr. Johan Julian","male",44,0,0,"STON/O 2. 3101269",7.925,"","S","15",NA,"",0
 "1235",3,0,"Sutehall, Mr. Henry Jr","male",25,0,0,"SOTON/OQ 392076",7.05,"","S","None",NA,"",0
@@ -1248,7 +1248,7 @@
 "1247",3,0,"Thorneycroft, Mr. Percival","male",29.8811345124283,1,0,"376564",16.1,"","S","None",NA,"",0
 "1248",3,1,"Thorneycroft, Mrs. Percival (Florence Kate White)","female",29.8811345124283,1,0,"376564",16.1,"","S","10",NA,"",0
 "1249",3,0,"Tikkanen, Mr. Juho","male",32,0,0,"STON/O 2. 3101293",7.925,"","S","None",NA,"",0
-"1250",3,0,"Tobin, Mr. Roger","male",29.8811345124283,0,0,"383121",7.75,"F38","Q","None",NA,"",0
+"1250",3,0,"Tobin, Mr. Roger","male",29.8811345124283,0,0,"383121",7.75,"F38","Q","None",NA,"",1
 "1251",3,0,"Todoroff, Mr. Lalio","male",29.8811345124283,0,0,"349216",7.8958,"","S","None",NA,"",0
 "1252",3,0,"Tomlin, Mr. Ernest Portage","male",30.5,0,0,"364499",8.05,"","S","None",50,"",0
 "1253",3,0,"Torber, Mr. Ernst William","male",44,0,0,"364511",8.05,"","S","None",NA,"",0
